@@ -7,6 +7,7 @@ theme="${newWallpaper%.*}"
 hyprctl hyprpaper preload "~/media/wallpapers/$newWallpaper"
 hyprctl hyprpaper wallpaper "DP-1, ~/media/wallpapers/$newWallpaper"
 hyprctl hyprpaper wallpaper "DP-3, ~/media/wallpapers/$newWallpaper"
+#hyprctl hyprpaper wallpaper "eDP-2, ~/media/wallpapers/$newWallpaper"
 hyprctl hyprpaper unload $oldWallpaper
 
 wal -i $newWallpaper -n
