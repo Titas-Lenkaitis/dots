@@ -2755,3 +2755,16 @@ allpaper DP-3, ~/media/wallpapers/milk3.jpg
 [2024-02-04 14:26:30.411] [warning] Mapping is not an object
 [2024-02-04 14:26:30.416] [info] Bar configured (width: 1897, height: 35) for output: DP-3
 [2024-02-04 14:26:30.416] [info] Bar configured (width: 3817, height: 35) for output: DP-1
+[2024-02-05 13:26:14.752] [info] Using configuration file /home/titas/.config/waybar/config
+[2024-02-05 13:26:14.754] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-05 13:26:14.759] [info] Hyprland IPC starting
+[2024-02-05 13:26:14.760] [warning] Mapping is not an object
+
+(waybar:1020): GLib-GObject-CRITICAL **: 13:26:14.778: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1020): GLib-GObject-CRITICAL **: 13:26:14.778: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-05 13:26:14.779] [warning] Mapping is not an object
+[2024-02-05 13:26:14.784] [info] Bar configured (width: 1897, height: 35) for output: DP-3
+[2024-02-05 13:26:14.784] [info] Bar configured (width: 3817, height: 35) for output: DP-1
+[2024-02-05 22:34:28.820] [info] Using configuration file /home/titas/.config/waybar/
+[2024-02-05 22:34:28.820] [error] basic_filebuf::underflow error reading the file: Is a directory
