@@ -1,12 +1,12 @@
 font=RobotoMono 12
-background-color=#12090cE8
-text-color=#edc986
+background-color=#05050bE8
+text-color=#c0c0c2
 width=400
 height=200
 margin=15
 padding=10
 border-size=2
-border-color=#edc986
+border-color=#c0c0c2
 border-radius=10
 default-timeout=5000
 max-visible=3

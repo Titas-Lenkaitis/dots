@@ -2768,3 +2768,873 @@ allpaper DP-3, ~/media/wallpapers/milk3.jpg
 [2024-02-05 13:26:14.784] [info] Bar configured (width: 3817, height: 35) for output: DP-1
 [2024-02-05 22:34:28.820] [info] Using configuration file /home/titas/.config/waybar/
 [2024-02-05 22:34:28.820] [error] basic_filebuf::underflow error reading the file: Is a directory
+[2024-02-06 13:23:28.472] [info] Using configuration file /home/titas/.config/waybar/config2
+[2024-02-06 13:23:28.474] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-06 13:23:28.553] [info] Hyprland IPC starting
+[2024-02-06 13:23:28.554] [warning] Mapping is not an object
+
+(waybar:1003): GLib-GObject-CRITICAL **: 13:23:28.573: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1003): GLib-GObject-CRITICAL **: 13:23:28.573: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-06 13:23:28.573] [warning] Mapping is not an object
+[2024-02-06 13:23:28.578] [info] Bar configured (width: 1920, height: 40) for output: DP-3
+[2024-02-06 13:23:28.578] [info] Bar configured (width: 3840, height: 40) for output: DP-1
+[2024-02-06 17:09:38.160] [info] Using configuration file /home/titas/.config/waybar/config2
+[2024-02-06 17:09:38.162] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-06 17:09:38.245] [info] Hyprland IPC starting
+[2024-02-06 17:09:38.246] [warning] Mapping is not an object
+
+(waybar:985): GLib-GObject-CRITICAL **: 17:09:38.265: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:985): GLib-GObject-CRITICAL **: 17:09:38.265: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-06 17:09:38.266] [warning] Mapping is not an object
+[2024-02-06 17:09:38.270] [info] Bar configured (width: 1920, height: 40) for output: DP-3
+[2024-02-06 17:09:38.271] [info] Bar configured (width: 3840, height: 40) for output: DP-1
+[2024-02-07 13:24:46.161] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-07 13:24:46.163] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-07 13:24:46.168] [info] Hyprland IPC starting
+[2024-02-07 13:24:46.169] [warning] Mapping is not an object
+[2024-02-07 13:24:46.191] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-07 13:24:55.806] [warning] Mapping is not an object
+[2024-02-07 13:24:55.810] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-07 16:48:19.261] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-07 16:48:19.263] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-07 16:48:19.268] [info] Hyprland IPC starting
+[2024-02-07 16:48:19.269] [warning] Mapping is not an object
+
+(waybar:999): GLib-GObject-CRITICAL **: 16:48:19.288: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:999): GLib-GObject-CRITICAL **: 16:48:19.288: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-07 16:48:19.289] [warning] Mapping is not an object
+[2024-02-07 16:48:19.294] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-07 16:48:19.294] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-08 13:11:01.511] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-08 13:11:01.513] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-08 13:11:01.519] [info] Hyprland IPC starting
+[2024-02-08 13:11:01.519] [warning] Mapping is not an object
+
+(waybar:1011): GLib-GObject-CRITICAL **: 13:11:01.539: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1011): GLib-GObject-CRITICAL **: 13:11:01.539: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-08 13:11:01.539] [warning] Mapping is not an object
+[2024-02-08 13:11:01.544] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-08 13:11:01.544] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-08 14:19:17.812] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-08 14:19:17.814] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-08 14:19:17.883] [info] Hyprland IPC starting
+[2024-02-08 14:19:17.884] [warning] Mapping is not an object
+
+(waybar:1011): GLib-GObject-CRITICAL **: 14:19:17.903: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1011): GLib-GObject-CRITICAL **: 14:19:17.903: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-08 14:19:17.904] [warning] Mapping is not an object
+[2024-02-08 14:19:17.909] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-08 14:19:17.909] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+** (waybar:1011): WARNING **: 14:22:21.885: Status Notifier Item with bus name ':1.39' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1011): WARNING **: 14:24:36.491: Status Notifier Item with bus name ':1.39' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1011): WARNING **: 14:24:37.933: Status Notifier Item with bus name ':1.39' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1011): WARNING **: 14:29:30.227: Status Notifier Item with bus name ':1.39' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-02-09 12:48:21.230] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-09 12:48:21.313] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-09 12:48:21.319] [info] Hyprland IPC starting
+[2024-02-09 12:48:21.319] [warning] Mapping is not an object
+
+(waybar:996): GLib-GObject-CRITICAL **: 12:48:21.339: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:996): GLib-GObject-CRITICAL **: 12:48:21.339: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-09 12:48:21.339] [warning] Mapping is not an object
+[2024-02-09 12:48:21.344] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-09 12:48:21.344] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+(waybar:996): LIBDBUSMENU-GLIB-WARNING **: 20:37:29.394: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+
+(waybar:996): LIBDBUSMENU-GLIB-WARNING **: 20:37:29.394: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+[2024-02-10 12:13:20.849] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-10 12:13:20.850] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-10 12:13:20.905] [info] Hyprland IPC starting
+[2024-02-10 12:13:20.906] [warning] Mapping is not an object
+
+(waybar:1013): GLib-GObject-CRITICAL **: 12:13:20.925: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1013): GLib-GObject-CRITICAL **: 12:13:20.925: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-10 12:13:20.925] [warning] Mapping is not an object
+[2024-02-10 12:13:20.930] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-10 12:13:20.930] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-11 15:12:26.797] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-11 15:12:26.799] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-11 15:12:26.854] [info] Hyprland IPC starting
+[2024-02-11 15:12:26.855] [warning] Mapping is not an object
+
+(waybar:1006): GLib-GObject-CRITICAL **: 15:12:26.874: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1006): GLib-GObject-CRITICAL **: 15:12:26.874: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-11 15:12:26.875] [warning] Mapping is not an object
+[2024-02-11 15:12:26.880] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-11 15:12:26.880] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-12 07:44:29.356] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-12 07:44:29.358] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-12 07:44:29.363] [info] Hyprland IPC starting
+[2024-02-12 07:44:29.364] [warning] Mapping is not an object
+
+(waybar:1033): GLib-GObject-CRITICAL **: 07:44:29.383: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1033): GLib-GObject-CRITICAL **: 07:44:29.383: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-12 07:44:29.383] [warning] Mapping is not an object
+[2024-02-12 07:44:29.388] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-12 07:44:29.388] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-13 13:01:36.624] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-13 13:01:36.625] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-13 13:01:36.689] [info] Hyprland IPC starting
+[2024-02-13 13:01:36.690] [warning] Mapping is not an object
+
+(waybar:1015): GLib-GObject-CRITICAL **: 13:01:36.709: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1015): GLib-GObject-CRITICAL **: 13:01:36.709: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-13 13:01:36.709] [warning] Mapping is not an object
+[2024-02-13 13:01:36.714] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-13 13:01:36.714] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-14 08:27:10.892] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-14 08:27:10.894] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-14 08:27:10.899] [info] Hyprland IPC starting
+[2024-02-14 08:27:10.900] [warning] Mapping is not an object
+[2024-02-14 08:27:10.921] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-14 08:27:21.158] [warning] Mapping is not an object
+[2024-02-14 08:27:21.161] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+(waybar:997): LIBDBUSMENU-GLIB-WARNING **: 13:41:03.643: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Remote peer disconnected
+
+(waybar:997): LIBDBUSMENU-GLIB-WARNING **: 13:41:03.643: Unable to replace properties on 0: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Remote peer disconnected
+
+(waybar:997): LIBDBUSMENU-GLIB-WARNING **: 13:41:03.643: Group Properties error: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Remote peer disconnected
+
+(waybar:997): LIBDBUSMENU-GLIB-WARNING **: 13:41:03.643: Unable to replace properties on 0: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Remote peer disconnected
+[2024-02-14 13:51:02.152] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-14 13:51:02.153] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-14 13:51:02.159] [info] Hyprland IPC starting
+[2024-02-14 13:51:02.160] [warning] Mapping is not an object
+
+(waybar:1021): GLib-GObject-CRITICAL **: 13:51:02.179: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1021): GLib-GObject-CRITICAL **: 13:51:02.179: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-14 13:51:02.179] [warning] Mapping is not an object
+[2024-02-14 13:51:02.184] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-14 13:51:02.184] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-15 13:27:00.857] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-15 13:27:00.859] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-15 13:27:00.864] [info] Hyprland IPC starting
+[2024-02-15 13:27:00.865] [warning] Mapping is not an object
+
+(waybar:998): GLib-GObject-CRITICAL **: 13:27:00.884: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:998): GLib-GObject-CRITICAL **: 13:27:00.884: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-15 13:27:00.884] [warning] Mapping is not an object
+[2024-02-15 13:27:00.889] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-15 13:27:00.889] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-16 13:30:41.693] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-16 13:30:41.756] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-16 13:30:41.761] [info] Hyprland IPC starting
+[2024-02-16 13:30:41.762] [warning] Mapping is not an object
+
+(waybar:1035): GLib-GObject-CRITICAL **: 13:30:41.781: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1035): GLib-GObject-CRITICAL **: 13:30:41.781: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-16 13:30:41.782] [warning] Mapping is not an object
+[2024-02-16 13:30:41.787] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-16 13:30:41.787] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+** (waybar:1035): WARNING **: 14:57:14.967: Status Notifier Item with bus name ':1.81' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1035): WARNING **: 14:57:16.525: Status Notifier Item with bus name ':1.81' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1035): WARNING **: 21:53:20.610: Status Notifier Item with bus name ':1.170' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-02-17 12:07:16.343] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-17 12:07:16.345] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-17 12:07:16.415] [info] Hyprland IPC starting
+[2024-02-17 12:07:16.416] [warning] Mapping is not an object
+
+(waybar:1005): GLib-GObject-CRITICAL **: 12:07:16.435: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1005): GLib-GObject-CRITICAL **: 12:07:16.435: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-17 12:07:16.436] [warning] Mapping is not an object
+[2024-02-17 12:07:16.441] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-17 12:07:16.441] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-18 12:17:40.152] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-18 12:17:40.154] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-18 12:17:40.159] [info] Hyprland IPC starting
+[2024-02-18 12:17:40.160] [warning] Mapping is not an object
+
+(waybar:999): GLib-GObject-CRITICAL **: 12:17:40.178: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:999): GLib-GObject-CRITICAL **: 12:17:40.178: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-18 12:17:40.179] [warning] Mapping is not an object
+[2024-02-18 12:17:40.183] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-18 12:17:40.183] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-18 12:54:43.536] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-18 12:54:43.538] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-18 12:54:43.593] [info] Hyprland IPC starting
+[2024-02-18 12:54:43.593] [warning] Mapping is not an object
+
+(waybar:997): GLib-GObject-CRITICAL **: 12:54:43.612: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:997): GLib-GObject-CRITICAL **: 12:54:43.612: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-18 12:54:43.613] [warning] Mapping is not an object
+[2024-02-18 12:54:43.618] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-18 12:54:43.618] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-19 13:23:00.323] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-19 13:23:00.325] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-19 13:23:00.383] [info] Hyprland IPC starting
+[2024-02-19 13:23:00.384] [warning] Mapping is not an object
+
+(waybar:1013): GLib-GObject-CRITICAL **: 13:23:00.403: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1013): GLib-GObject-CRITICAL **: 13:23:00.403: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-19 13:23:00.404] [warning] Mapping is not an object
+[2024-02-19 13:23:00.408] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-19 13:23:00.408] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-20 13:22:09.375] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-20 13:22:09.377] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-20 13:22:09.382] [info] Hyprland IPC starting
+[2024-02-20 13:22:09.383] [warning] Mapping is not an object
+
+(waybar:1021): GLib-GObject-CRITICAL **: 13:22:09.403: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1021): GLib-GObject-CRITICAL **: 13:22:09.403: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-20 13:22:09.403] [warning] Mapping is not an object
+[2024-02-20 13:22:09.408] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-20 13:22:09.408] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-20 20:49:31.824] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-20 20:49:31.826] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-20 20:49:31.830] [info] Hyprland IPC starting
+[2024-02-20 20:49:31.832] [warning] Mapping is not an object
+
+(waybar:35789): GLib-GObject-CRITICAL **: 20:49:31.855: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:35789): GLib-GObject-CRITICAL **: 20:49:31.855: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-20 20:49:31.856] [warning] Mapping is not an object
+[2024-02-20 20:49:31.866] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-20 20:49:31.866] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-20 20:52:09.587] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-20 20:52:09.589] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-20 20:52:09.599] [info] Hyprland IPC starting
+[2024-02-20 20:52:09.601] [warning] Mapping is not an object
+
+(waybar:36281): GLib-GObject-CRITICAL **: 20:52:09.619: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:36281): GLib-GObject-CRITICAL **: 20:52:09.619: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-20 20:52:09.621] [warning] Mapping is not an object
+[2024-02-20 20:52:09.651] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-20 20:52:09.651] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-20 21:04:54.736] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-20 21:04:54.737] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-20 21:04:54.742] [info] Hyprland IPC starting
+[2024-02-20 21:04:54.745] [warning] Mapping is not an object
+
+(waybar:42015): GLib-GObject-CRITICAL **: 21:04:54.761: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:42015): GLib-GObject-CRITICAL **: 21:04:54.761: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-20 21:04:54.763] [warning] Mapping is not an object
+[2024-02-20 21:04:54.786] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-20 21:04:54.786] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-20 21:08:03.486] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-20 21:08:03.487] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-20 21:08:03.492] [info] Hyprland IPC starting
+[2024-02-20 21:08:03.499] [warning] Mapping is not an object
+
+(waybar:42574): GLib-GObject-CRITICAL **: 21:08:03.513: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:42574): GLib-GObject-CRITICAL **: 21:08:03.514: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-20 21:08:03.515] [warning] Mapping is not an object
+[2024-02-20 21:08:03.527] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-20 21:08:03.528] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-20 21:08:16.736] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-20 21:08:16.738] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-20 21:08:16.743] [info] Hyprland IPC starting
+[2024-02-20 21:08:16.750] [warning] Mapping is not an object
+
+(waybar:42751): GLib-GObject-CRITICAL **: 21:08:16.766: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:42751): GLib-GObject-CRITICAL **: 21:08:16.766: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-20 21:08:16.768] [warning] Mapping is not an object
+[2024-02-20 21:08:16.782] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-20 21:08:16.782] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-21 13:24:37.609] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-21 13:24:37.679] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-21 13:24:37.685] [info] Hyprland IPC starting
+[2024-02-21 13:24:37.686] [warning] Mapping is not an object
+
+(waybar:1104): GLib-GObject-CRITICAL **: 13:24:37.705: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1104): GLib-GObject-CRITICAL **: 13:24:37.705: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-21 13:24:37.705] [warning] Mapping is not an object
+[2024-02-21 13:24:37.710] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-21 13:24:37.710] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-22 13:29:02.410] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-22 13:29:02.412] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-22 13:29:02.502] [info] Hyprland IPC starting
+[2024-02-22 13:29:02.503] [warning] Mapping is not an object
+
+(waybar:1094): GLib-GObject-CRITICAL **: 13:29:02.522: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1094): GLib-GObject-CRITICAL **: 13:29:02.522: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-22 13:29:02.523] [warning] Mapping is not an object
+[2024-02-22 13:29:02.528] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-22 13:29:02.528] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+Gdk-Message: 15:58:33.877: Error reading events from display: Broken pipe
+[2024-02-22 15:59:18.812] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-22 15:59:18.814] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-22 15:59:18.819] [info] Hyprland IPC starting
+[2024-02-22 15:59:18.820] [warning] Mapping is not an object
+
+(waybar:37020): GLib-GObject-CRITICAL **: 15:59:18.833: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:37020): GLib-GObject-CRITICAL **: 15:59:18.833: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-22 15:59:18.833] [warning] Mapping is not an object
+[2024-02-22 15:59:18.838] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-22 15:59:18.838] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-23 13:24:38.214] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-23 13:24:38.264] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-23 13:24:38.270] [info] Hyprland IPC starting
+[2024-02-23 13:24:38.271] [warning] Mapping is not an object
+
+(waybar:1080): GLib-GObject-CRITICAL **: 13:24:38.290: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1080): GLib-GObject-CRITICAL **: 13:24:38.290: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-23 13:24:38.291] [warning] Mapping is not an object
+[2024-02-23 13:24:38.297] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-23 13:24:38.297] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-24 12:24:55.422] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-24 12:24:55.424] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-24 12:24:55.506] [info] Hyprland IPC starting
+[2024-02-24 12:24:55.507] [warning] Mapping is not an object
+
+(waybar:1063): GLib-GObject-CRITICAL **: 12:24:55.526: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1063): GLib-GObject-CRITICAL **: 12:24:55.526: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-24 12:24:55.526] [warning] Mapping is not an object
+[2024-02-24 12:24:55.532] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-24 12:24:55.532] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-24 13:34:15.737] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-24 13:34:15.857] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-24 13:34:15.863] [info] Hyprland IPC starting
+[2024-02-24 13:34:15.865] [warning] Mapping is not an object
+
+(waybar:1057): GLib-GObject-CRITICAL **: 13:34:15.886: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1057): GLib-GObject-CRITICAL **: 13:34:15.886: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-24 13:34:15.887] [warning] Mapping is not an object
+[2024-02-24 13:34:15.893] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-24 13:34:15.893] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+(waybar:1057): LIBDBUSMENU-GLIB-WARNING **: 13:40:51.118: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+
+(waybar:1057): LIBDBUSMENU-GLIB-WARNING **: 13:40:51.118: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+[2024-02-24 14:23:25.218] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-24 14:23:25.341] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-24 14:23:25.347] [info] Hyprland IPC starting
+[2024-02-24 14:23:25.348] [warning] Mapping is not an object
+
+(waybar:1091): GLib-GObject-CRITICAL **: 14:23:25.368: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1091): GLib-GObject-CRITICAL **: 14:23:25.368: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-24 14:23:25.368] [warning] Mapping is not an object
+[2024-02-24 14:23:25.374] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-24 14:23:25.374] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-25 10:16:41.428] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-25 10:16:41.430] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-25 10:16:41.434] [info] Hyprland IPC starting
+[2024-02-25 10:16:41.435] [warning] Mapping is not an object
+
+(waybar:1090): GLib-GObject-CRITICAL **: 10:16:41.454: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1090): GLib-GObject-CRITICAL **: 10:16:41.455: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-25 10:16:41.455] [warning] Mapping is not an object
+[2024-02-25 10:16:41.460] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-25 10:16:41.460] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-26 13:26:51.200] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-26 13:26:51.202] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-26 13:26:51.206] [info] Hyprland IPC starting
+[2024-02-26 13:26:51.208] [warning] Mapping is not an object
+
+(waybar:1076): GLib-GObject-CRITICAL **: 13:26:51.227: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1076): GLib-GObject-CRITICAL **: 13:26:51.227: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-26 13:26:51.227] [warning] Mapping is not an object
+[2024-02-26 13:26:51.233] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-26 13:26:51.233] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-27 13:24:39.532] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-27 13:24:39.534] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-27 13:24:39.631] [info] Hyprland IPC starting
+[2024-02-27 13:24:39.632] [warning] Mapping is not an object
+
+(waybar:1062): GLib-GObject-CRITICAL **: 13:24:39.651: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1062): GLib-GObject-CRITICAL **: 13:24:39.651: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-27 13:24:39.651] [warning] Mapping is not an object
+[2024-02-27 13:24:39.656] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-27 13:24:39.656] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+** (waybar:1062): WARNING **: 21:05:02.431: Status Notifier Item with bus name ':1.680' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-02-28 13:24:13.653] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-28 13:24:13.654] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-28 13:24:13.659] [info] Hyprland IPC starting
+[2024-02-28 13:24:13.661] [warning] Mapping is not an object
+
+(waybar:1036): GLib-GObject-CRITICAL **: 13:24:13.759: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1036): GLib-GObject-CRITICAL **: 13:24:13.759: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-28 13:24:13.759] [warning] Mapping is not an object
+[2024-02-28 13:24:13.764] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-28 13:24:13.765] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-28 20:29:23.728] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-28 20:29:23.729] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-28 20:29:23.734] [info] Hyprland IPC starting
+[2024-02-28 20:29:23.818] [warning] Mapping is not an object
+
+(waybar:1032): GLib-GObject-CRITICAL **: 20:29:23.843: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1032): GLib-GObject-CRITICAL **: 20:29:23.843: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-28 20:29:23.843] [warning] Mapping is not an object
+[2024-02-28 20:29:23.849] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-28 20:29:23.849] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-29 13:25:12.603] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-29 13:25:12.605] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-29 13:25:12.653] [info] Hyprland IPC starting
+[2024-02-29 13:25:12.654] [warning] Mapping is not an object
+
+(waybar:1045): GLib-GObject-CRITICAL **: 13:25:12.673: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1045): GLib-GObject-CRITICAL **: 13:25:12.673: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-29 13:25:12.673] [warning] Mapping is not an object
+[2024-02-29 13:25:12.678] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-29 13:25:12.678] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-29 17:18:31.512] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-29 17:18:31.513] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-29 17:18:31.519] [info] Hyprland IPC starting
+[2024-02-29 17:18:31.520] [warning] Mapping is not an object
+
+(waybar:1032): GLib-GObject-CRITICAL **: 17:18:31.626: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1032): GLib-GObject-CRITICAL **: 17:18:31.626: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-29 17:18:31.626] [warning] Mapping is not an object
+[2024-02-29 17:18:31.631] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-29 17:18:31.631] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-02-29 18:38:46.916] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-02-29 18:38:46.918] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-02-29 18:38:46.923] [info] Hyprland IPC starting
+[2024-02-29 18:38:46.924] [warning] Mapping is not an object
+
+(waybar:1058): GLib-GObject-CRITICAL **: 18:38:46.943: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1058): GLib-GObject-CRITICAL **: 18:38:46.944: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-02-29 18:38:46.944] [warning] Mapping is not an object
+[2024-02-29 18:38:46.949] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-02-29 18:38:46.949] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-01 13:27:45.000] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-01 13:27:45.001] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-01 13:27:45.088] [info] Hyprland IPC starting
+[2024-03-01 13:27:45.089] [warning] Mapping is not an object
+
+(waybar:1042): GLib-GObject-CRITICAL **: 13:27:45.108: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1042): GLib-GObject-CRITICAL **: 13:27:45.108: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-01 13:27:45.108] [warning] Mapping is not an object
+[2024-03-01 13:27:45.113] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-01 13:27:45.113] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-01 14:12:05.918] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-01 14:12:05.920] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-01 14:12:05.925] [info] Hyprland IPC starting
+[2024-03-01 14:12:05.926] [warning] Mapping is not an object
+
+(waybar:1037): GLib-GObject-CRITICAL **: 14:12:06.018: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1037): GLib-GObject-CRITICAL **: 14:12:06.018: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-01 14:12:06.019] [warning] Mapping is not an object
+[2024-03-01 14:12:06.024] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-01 14:12:06.024] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-01 14:16:07.835] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-01 14:16:07.837] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-01 14:16:07.914] [info] Hyprland IPC starting
+[2024-03-01 14:16:07.915] [warning] Mapping is not an object
+
+(waybar:1061): GLib-GObject-CRITICAL **: 14:16:07.934: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1061): GLib-GObject-CRITICAL **: 14:16:07.934: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-01 14:16:07.935] [warning] Mapping is not an object
+[2024-03-01 14:16:07.940] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-01 14:16:07.940] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-01 14:27:02.818] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-01 14:27:02.819] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-01 14:27:02.877] [info] Hyprland IPC starting
+[2024-03-01 14:27:02.878] [warning] Mapping is not an object
+
+(waybar:1052): GLib-GObject-CRITICAL **: 14:27:02.897: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1052): GLib-GObject-CRITICAL **: 14:27:02.897: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-01 14:27:02.897] [warning] Mapping is not an object
+[2024-03-01 14:27:02.902] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-01 14:27:02.902] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-02 10:52:28.119] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-02 10:52:28.120] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-02 10:52:28.125] [info] Hyprland IPC starting
+[2024-03-02 10:52:28.127] [warning] Mapping is not an object
+
+(waybar:1016): GLib-GObject-CRITICAL **: 10:52:28.235: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1016): GLib-GObject-CRITICAL **: 10:52:28.235: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-02 10:52:28.235] [warning] Mapping is not an object
+[2024-03-02 10:52:28.241] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-02 10:52:28.241] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-03 10:56:21.716] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-03 10:56:21.717] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-03 10:56:21.803] [info] Hyprland IPC starting
+[2024-03-03 10:56:21.805] [warning] Mapping is not an object
+
+(waybar:1038): GLib-GObject-CRITICAL **: 10:56:21.823: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1038): GLib-GObject-CRITICAL **: 10:56:21.823: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-03 10:56:21.823] [warning] Mapping is not an object
+[2024-03-03 10:56:21.828] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-03 10:56:21.828] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-03 12:19:09.037] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-03 12:19:09.039] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-03 12:19:09.131] [info] Hyprland IPC starting
+[2024-03-03 12:19:09.132] [warning] Mapping is not an object
+
+(waybar:1054): GLib-GObject-CRITICAL **: 12:19:09.152: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1054): GLib-GObject-CRITICAL **: 12:19:09.152: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-03 12:19:09.152] [warning] Mapping is not an object
+[2024-03-03 12:19:09.157] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-03 12:19:09.157] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-04 13:24:31.086] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-04 13:24:31.088] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-04 13:24:31.093] [info] Hyprland IPC starting
+[2024-03-04 13:24:31.178] [warning] Mapping is not an object
+
+(waybar:1029): GLib-GObject-CRITICAL **: 13:24:31.203: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1029): GLib-GObject-CRITICAL **: 13:24:31.203: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-04 13:24:31.203] [warning] Mapping is not an object
+[2024-03-04 13:24:31.208] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-04 13:24:31.208] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-05 13:22:29.567] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-05 13:22:29.568] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-05 13:22:29.574] [info] Hyprland IPC starting
+[2024-03-05 13:22:29.575] [warning] Mapping is not an object
+
+(waybar:1046): GLib-GObject-CRITICAL **: 13:22:29.666: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1046): GLib-GObject-CRITICAL **: 13:22:29.666: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-05 13:22:29.667] [warning] Mapping is not an object
+[2024-03-05 13:22:29.672] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-05 13:22:29.672] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-05 18:02:01.538] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-05 18:02:01.540] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-05 18:02:01.545] [info] Hyprland IPC starting
+[2024-03-05 18:02:01.629] [warning] Mapping is not an object
+
+(waybar:1049): GLib-GObject-CRITICAL **: 18:02:01.654: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1049): GLib-GObject-CRITICAL **: 18:02:01.654: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-05 18:02:01.655] [warning] Mapping is not an object
+[2024-03-05 18:02:01.660] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-05 18:02:01.660] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-06 13:23:32.302] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-06 13:23:32.349] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-06 13:23:32.355] [info] Hyprland IPC starting
+[2024-03-06 13:23:32.356] [warning] Mapping is not an object
+
+(waybar:1030): GLib-GObject-CRITICAL **: 13:23:32.375: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1030): GLib-GObject-CRITICAL **: 13:23:32.375: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-06 13:23:32.376] [warning] Mapping is not an object
+[2024-03-06 13:23:32.381] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-06 13:23:32.381] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-07 13:28:07.663] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-07 13:28:07.665] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-07 13:28:07.670] [info] Hyprland IPC starting
+[2024-03-07 13:28:07.671] [warning] Mapping is not an object
+
+(waybar:1063): GLib-GObject-CRITICAL **: 13:28:07.766: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1063): GLib-GObject-CRITICAL **: 13:28:07.766: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-07 13:28:07.767] [warning] Mapping is not an object
+[2024-03-07 13:28:07.772] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-07 13:28:07.772] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-08 13:29:16.189] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-08 13:29:16.270] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-08 13:29:16.275] [info] Hyprland IPC starting
+[2024-03-08 13:29:16.276] [warning] Mapping is not an object
+
+(waybar:1056): GLib-GObject-CRITICAL **: 13:29:16.295: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1056): GLib-GObject-CRITICAL **: 13:29:16.296: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-08 13:29:16.296] [warning] Mapping is not an object
+[2024-03-08 13:29:16.301] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-08 13:29:16.301] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-09 12:10:42.807] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-09 12:10:42.809] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-09 12:10:42.902] [info] Hyprland IPC starting
+[2024-03-09 12:10:42.903] [warning] Mapping is not an object
+
+(waybar:1025): GLib-GObject-CRITICAL **: 12:10:42.922: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1025): GLib-GObject-CRITICAL **: 12:10:42.922: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-09 12:10:42.923] [warning] Mapping is not an object
+[2024-03-09 12:10:42.927] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-09 12:10:42.927] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-09 12:14:40.031] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-09 12:14:40.032] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-09 12:14:40.038] [info] Hyprland IPC starting
+[2024-03-09 12:14:40.039] [warning] Mapping is not an object
+
+(waybar:1026): GLib-GObject-CRITICAL **: 12:14:40.128: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1026): GLib-GObject-CRITICAL **: 12:14:40.128: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-09 12:14:40.129] [warning] Mapping is not an object
+[2024-03-09 12:14:40.134] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-09 12:14:40.134] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-10 12:22:38.712] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-10 12:22:38.714] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-10 12:22:38.719] [info] Hyprland IPC starting
+[2024-03-10 12:22:38.720] [warning] Mapping is not an object
+
+(waybar:1055): GLib-GObject-CRITICAL **: 12:22:38.823: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1055): GLib-GObject-CRITICAL **: 12:22:38.823: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-10 12:22:38.823] [warning] Mapping is not an object
+[2024-03-10 12:22:38.828] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-10 12:22:38.828] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-11 13:23:35.276] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-11 13:23:35.278] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-11 13:23:35.368] [info] Hyprland IPC starting
+[2024-03-11 13:23:35.370] [warning] Mapping is not an object
+
+(waybar:1036): GLib-GObject-CRITICAL **: 13:23:35.389: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1036): GLib-GObject-CRITICAL **: 13:23:35.389: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-11 13:23:35.389] [warning] Mapping is not an object
+[2024-03-11 13:23:35.394] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-11 13:23:35.394] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-11 16:43:02.023] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-11 16:43:02.025] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-11 16:43:02.030] [info] Hyprland IPC starting
+[2024-03-11 16:43:02.114] [warning] Mapping is not an object
+
+(waybar:1036): GLib-GObject-CRITICAL **: 16:43:02.139: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1036): GLib-GObject-CRITICAL **: 16:43:02.139: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-11 16:43:02.140] [warning] Mapping is not an object
+[2024-03-11 16:43:02.145] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-11 16:43:02.145] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+** (waybar:1036): WARNING **: 18:26:27.986: Status Notifier Item with bus name ':1.100' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-03-12 13:21:49.258] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-12 13:21:49.259] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-12 13:21:49.264] [info] Hyprland IPC starting
+[2024-03-12 13:21:49.348] [warning] Mapping is not an object
+
+(waybar:1059): GLib-GObject-CRITICAL **: 13:21:49.373: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1059): GLib-GObject-CRITICAL **: 13:21:49.373: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-12 13:21:49.374] [warning] Mapping is not an object
+[2024-03-12 13:21:49.378] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-12 13:21:49.379] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-13 13:21:58.442] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-13 13:21:58.444] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-13 13:21:58.524] [info] Hyprland IPC starting
+[2024-03-13 13:21:58.525] [warning] Mapping is not an object
+
+(waybar:1049): GLib-GObject-CRITICAL **: 13:21:58.544: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1049): GLib-GObject-CRITICAL **: 13:21:58.544: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-13 13:21:58.544] [warning] Mapping is not an object
+[2024-03-13 13:21:58.549] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-13 13:21:58.549] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-14 07:41:04.409] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-14 07:41:04.438] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-14 07:41:04.443] [info] Hyprland IPC starting
+[2024-03-14 07:41:04.444] [warning] Mapping is not an object
+[2024-03-14 07:41:04.466] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-14 07:41:14.328] [warning] Mapping is not an object
+[2024-03-14 07:41:14.332] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+** (waybar:1049): WARNING **: 21:39:45.930: Status Notifier Item with bus name ':1.179' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1049): WARNING **: 21:41:55.909: Status Notifier Item with bus name ':1.179' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-03-15 07:30:31.208] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-15 07:30:31.209] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-15 07:30:31.214] [info] Hyprland IPC starting
+[2024-03-15 07:30:31.215] [warning] Mapping is not an object
+
+(waybar:1047): GLib-GObject-CRITICAL **: 07:30:31.318: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1047): GLib-GObject-CRITICAL **: 07:30:31.318: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-15 07:30:31.318] [warning] Mapping is not an object
+[2024-03-15 07:30:31.323] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-15 07:30:31.323] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-16 10:22:28.181] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-16 10:22:28.259] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-16 10:22:28.264] [info] Hyprland IPC starting
+[2024-03-16 10:22:28.265] [warning] Mapping is not an object
+
+(waybar:1061): GLib-GObject-CRITICAL **: 10:22:28.284: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1061): GLib-GObject-CRITICAL **: 10:22:28.284: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-16 10:22:28.284] [warning] Mapping is not an object
+[2024-03-16 10:22:28.289] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-16 10:22:28.290] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-17 10:37:05.921] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-17 10:37:05.922] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-17 10:37:06.011] [info] Hyprland IPC starting
+[2024-03-17 10:37:06.013] [warning] Mapping is not an object
+
+(waybar:1063): GLib-GObject-CRITICAL **: 10:37:06.032: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1063): GLib-GObject-CRITICAL **: 10:37:06.032: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-17 10:37:06.032] [warning] Mapping is not an object
+[2024-03-17 10:37:06.037] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-17 10:37:06.037] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-17 10:48:25.856] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-17 10:48:25.984] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-17 10:48:25.989] [info] Hyprland IPC starting
+[2024-03-17 10:48:25.990] [warning] Mapping is not an object
+
+(waybar:1018): GLib-GObject-CRITICAL **: 10:48:26.009: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:1018): GLib-GObject-CRITICAL **: 10:48:26.009: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2024-03-17 10:48:26.009] [warning] Mapping is not an object
+[2024-03-17 10:48:26.016] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-17 10:48:26.016] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-18 13:24:32.313] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-18 13:24:32.423] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-18 13:24:32.428] [info] Hyprland IPC starting
+[2024-03-18 13:24:32.430] [info] Loading persistent workspaces from Waybar config
+[2024-03-18 13:24:32.430] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-18 13:24:32.442] [info] Loading persistent workspaces from Waybar config
+[2024-03-18 13:24:32.442] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-18 13:24:32.451] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-18 13:24:32.451] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-19 13:23:17.221] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-19 13:23:17.223] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-19 13:23:17.299] [info] Hyprland IPC starting
+[2024-03-19 13:23:17.301] [info] Loading persistent workspaces from Waybar config
+[2024-03-19 13:23:17.301] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-19 13:23:17.314] [info] Loading persistent workspaces from Waybar config
+[2024-03-19 13:23:17.314] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-19 13:23:17.323] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-19 13:23:17.323] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-20 13:22:37.635] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-20 13:22:37.637] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-20 13:22:37.641] [info] Hyprland IPC starting
+[2024-03-20 13:22:37.643] [info] Loading persistent workspaces from Waybar config
+[2024-03-20 13:22:37.643] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-20 13:22:37.657] [info] Loading persistent workspaces from Waybar config
+[2024-03-20 13:22:37.657] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-20 13:22:37.666] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-20 13:22:37.666] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-20 13:22:37.796] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-20 13:22:37.803] [info] Loading persistent workspaces from Waybar config
+[2024-03-20 13:22:37.803] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-20 13:22:37.803] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-20 13:22:37.804] [info] Loading persistent workspaces from Waybar config
+[2024-03-20 13:22:37.804] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-21 13:29:23.940] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-21 13:29:23.942] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-21 13:29:23.991] [info] Hyprland IPC starting
+[2024-03-21 13:29:23.993] [info] Loading persistent workspaces from Waybar config
+[2024-03-21 13:29:23.993] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-21 13:29:24.006] [info] Loading persistent workspaces from Waybar config
+[2024-03-21 13:29:24.006] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-21 13:29:24.015] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-21 13:29:24.015] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:1056): WARNING **: 16:11:09.409: Status Notifier Item with bus name ':1.55' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1056): WARNING **: 16:41:59.188: Status Notifier Item with bus name ':1.55' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1056): WARNING **: 16:42:00.235: Status Notifier Item with bus name ':1.55' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-03-22 13:26:19.485] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-22 13:26:19.574] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-22 13:26:19.579] [info] Hyprland IPC starting
+[2024-03-22 13:26:19.581] [info] Loading persistent workspaces from Waybar config
+[2024-03-22 13:26:19.581] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-22 13:26:19.594] [info] Loading persistent workspaces from Waybar config
+[2024-03-22 13:26:19.594] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-22 13:26:19.603] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-22 13:26:19.603] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1037): LIBDBUSMENU-GLIB-WARNING **: 20:36:32.878: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+
+(waybar:1037): LIBDBUSMENU-GLIB-WARNING **: 20:36:32.879: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+[2024-03-23 10:28:41.532] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-23 10:28:41.533] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-23 10:28:41.539] [info] Hyprland IPC starting
+[2024-03-23 10:28:41.540] [info] Loading persistent workspaces from Waybar config
+[2024-03-23 10:28:41.541] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-23 10:28:41.630] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-23 10:28:41.635] [info] Loading persistent workspaces from Waybar config
+[2024-03-23 10:28:41.636] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-23 10:28:41.636] [info] Loading persistent workspaces from Waybar config
+[2024-03-23 10:28:41.636] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-23 10:28:41.648] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-23 10:28:41.648] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:1050): WARNING **: 11:05:08.152: Status Notifier Item with bus name ':1.51' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1050): WARNING **: 17:00:27.991: Status Notifier Item with bus name ':1.51' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-03-24 10:10:33.102] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-24 10:10:33.104] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-24 10:10:33.109] [info] Hyprland IPC starting
+[2024-03-24 10:10:33.111] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 10:10:33.111] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 10:10:33.200] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 10:10:33.205] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 10:10:33.205] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 10:10:33.206] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 10:10:33.206] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 10:10:33.217] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-24 10:10:33.217] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-24 20:57:09.672] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 20:57:09.681] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 20:57:09.682] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 20:57:09.682] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 20:57:09.684] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 20:57:09.684] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:00:35.050] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-03-24 21:00:35.189] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-03-24 21:00:35.194] [info] Hyprland IPC starting
+[2024-03-24 21:00:35.196] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:00:35.196] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:00:35.210] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:00:35.210] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:00:35.218] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-03-24 21:00:35.218] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-03-24 21:01:23.216] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:01:23.235] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:01:23.235] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:01:23.235] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:01:23.236] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:01:23.236] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:02:39.270] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:02:39.288] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:02:39.288] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:02:39.288] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:02:39.289] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:02:39.289] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:03:00.322] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:03:00.331] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:03:00.331] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:03:00.331] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:03:00.332] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:03:00.332] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:04:35.385] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:04:35.393] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:04:35.393] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-03-24 21:04:35.394] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-03-24 21:04:35.395] [info] Loading persistent workspaces from Waybar config
+[2024-03-24 21:04:35.395] [info] Loading persistent workspaces from Hyprland workspace rules

@@ -11,7 +11,7 @@ hyprctl hyprpaper wallpaper "DP-3, ~/media/wallpapers/$newWallpaper"
 #hyprctl hyprpaper wallpaper "eDP-2, ~/media/wallpapers/$newWallpaper"
 hyprctl hyprpaper unload $oldWallpaper
 
-wal -i $newWallpaper -n
+wal -i $newWallpaper -n -e
 gsettings set org.gnome.desktop.interface gtk-theme "oomox-${theme}"
 killall -q waybar
 while pgrep -x waybar >/dev/null; do sleep 1; done
