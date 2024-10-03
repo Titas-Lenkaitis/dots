@@ -6100,3 +6100,1776 @@ terminate called after throwing an instance of 'std::runtime_error'
 (waybar:1238): LIBDBUSMENU-GTK-WARNING **: 13:08:25.651: The child-display variable is set to '(null)' but there's a menu, odd?
 
 ** (waybar:1238): WARNING **: 14:55:46.301: Status Notifier Item with bus name ':1.261' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-01 20:55:10.833] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-01 20:55:10.861] [info] Discovered appearance 'dark'
+[2024-09-01 20:55:10.861] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-01 20:55:10.865] [info] Hyprland IPC starting
+[2024-09-01 20:55:10.867] [info] Loading persistent workspaces from Waybar config
+[2024-09-01 20:55:10.867] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-01 20:55:10.880] [info] Loading persistent workspaces from Waybar config
+[2024-09-01 20:55:10.880] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-01 20:55:10.891] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-01 20:55:10.891] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-02 13:27:48.576] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-02 13:27:48.578] [info] Discovered appearance 'dark'
+[2024-09-02 13:27:48.578] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-02 13:27:48.583] [info] Hyprland IPC starting
+[2024-09-02 13:27:48.585] [info] Loading persistent workspaces from Waybar config
+[2024-09-02 13:27:48.585] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-02 13:27:48.598] [info] Loading persistent workspaces from Waybar config
+[2024-09-02 13:27:48.598] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-02 13:27:48.612] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-02 13:27:48.612] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-02 13:27:48.803] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-02 13:27:48.809] [info] Loading persistent workspaces from Waybar config
+[2024-09-02 13:27:48.809] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-02 13:27:48.809] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-02 13:27:48.810] [info] Loading persistent workspaces from Waybar config
+[2024-09-02 13:27:48.810] [info] Loading persistent workspaces from Hyprland workspace rules
+
+(waybar:1525): Gtk-WARNING **: 13:27:56.809: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1525): Gtk-WARNING **: 13:27:56.809: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1525): Gtk-WARNING **: 13:27:56.809: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1525): Gtk-WARNING **: 13:27:56.809: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 13:27:56.902: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 13:27:56.902: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-02 18:44:01.270] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-02 18:44:01.339] [info] Discovered appearance 'dark'
+[2024-09-02 18:44:01.339] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-02 18:44:01.344] [info] Hyprland IPC starting
+[2024-09-02 18:44:01.345] [info] Loading persistent workspaces from Waybar config
+[2024-09-02 18:44:01.345] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-02 18:44:01.358] [info] Loading persistent workspaces from Waybar config
+[2024-09-02 18:44:01.358] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-02 18:44:01.370] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-02 18:44:01.370] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1493): Gtk-WARNING **: 19:22:12.729: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1493): Gtk-WARNING **: 19:22:12.729: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1493): Gtk-WARNING **: 19:22:12.729: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1493): Gtk-WARNING **: 19:22:12.729: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1493): LIBDBUSMENU-GTK-WARNING **: 19:22:12.829: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1493): LIBDBUSMENU-GTK-WARNING **: 19:22:12.829: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1493): LIBDBUSMENU-GTK-WARNING **: 19:22:19.799: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1493): LIBDBUSMENU-GTK-WARNING **: 19:22:19.799: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1493): LIBDBUSMENU-GTK-WARNING **: 20:38:25.252: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1493): LIBDBUSMENU-GTK-WARNING **: 20:38:25.252: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-02 21:38:48.871] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-02 21:38:48.871] [info] Bar configured (width: 3810, height: 50) for output: DP-1
+[2024-09-02 21:38:48.876] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-02 21:38:48.876] [info] Bar configured (width: 1890, height: 50) for output: DP-3
+[2024-09-02 21:38:53.744] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-02 21:38:53.749] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-02 21:38:56.120] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-02 21:38:56.120] [info] Bar configured (width: 1890, height: 50) for output: DP-3
+[2024-09-02 21:38:56.138] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-02 21:38:56.138] [info] Bar configured (width: 3810, height: 50) for output: DP-1
+[2024-09-02 21:38:57.046] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-02 21:38:57.050] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-03 13:24:32.301] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-03 13:24:32.366] [info] Discovered appearance 'dark'
+[2024-09-03 13:24:32.366] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-03 13:24:32.371] [info] Hyprland IPC starting
+[2024-09-03 13:24:32.373] [info] Loading persistent workspaces from Waybar config
+[2024-09-03 13:24:32.373] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-03 13:24:32.386] [info] Loading persistent workspaces from Waybar config
+[2024-09-03 13:24:32.387] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-03 13:24:32.399] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-03 13:24:32.399] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-04 13:23:10.047] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-04 13:23:10.132] [info] Discovered appearance 'dark'
+[2024-09-04 13:23:10.132] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-04 13:23:10.137] [info] Hyprland IPC starting
+[2024-09-04 13:23:10.139] [info] Loading persistent workspaces from Waybar config
+[2024-09-04 13:23:10.139] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-04 13:23:10.152] [info] Loading persistent workspaces from Waybar config
+[2024-09-04 13:23:10.152] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-04 13:23:10.165] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-04 13:23:10.165] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:1471): WARNING **: 21:26:24.366: Status Notifier Item with bus name ':1.120' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-05 13:26:31.150] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-05 13:26:31.224] [info] Discovered appearance 'dark'
+[2024-09-05 13:26:31.224] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-05 13:26:31.229] [info] Hyprland IPC starting
+[2024-09-05 13:26:31.231] [info] Loading persistent workspaces from Waybar config
+[2024-09-05 13:26:31.231] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-05 13:26:31.244] [info] Loading persistent workspaces from Waybar config
+[2024-09-05 13:26:31.244] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-05 13:26:31.256] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-05 13:26:31.256] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+Gdk-Message: 15:27:17.645: Error reading events from display: Broken pipe
+[2024-09-05 15:52:56.208] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-05 15:52:56.247] [info] Discovered appearance 'dark'
+[2024-09-05 15:52:56.247] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-05 15:52:56.252] [info] Hyprland IPC starting
+[2024-09-05 15:52:56.254] [info] Loading persistent workspaces from Waybar config
+[2024-09-05 15:52:56.254] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-05 15:52:56.267] [info] Loading persistent workspaces from Waybar config
+[2024-09-05 15:52:56.267] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-05 15:52:56.279] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-05 15:52:56.279] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:3565): WARNING **: 18:25:40.583: Status Notifier Item with bus name ':1.193' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+Gdk-Message: 22:30:51.123: Error reading events from display: Broken pipe
+[2024-09-06 13:24:03.782] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-06 13:24:03.845] [info] Discovered appearance 'dark'
+[2024-09-06 13:24:03.845] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-06 13:24:03.850] [info] Hyprland IPC starting
+[2024-09-06 13:24:03.852] [info] Loading persistent workspaces from Waybar config
+[2024-09-06 13:24:03.852] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-06 13:24:03.865] [info] Loading persistent workspaces from Waybar config
+[2024-09-06 13:24:03.865] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-06 13:24:03.877] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-06 13:24:03.877] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1404): Gtk-WARNING **: 14:32:51.435: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1404): Gtk-WARNING **: 14:32:51.435: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1404): Gtk-WARNING **: 14:32:51.435: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1404): Gtk-WARNING **: 14:32:51.435: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1404): LIBDBUSMENU-GTK-WARNING **: 14:32:51.534: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1404): LIBDBUSMENU-GTK-WARNING **: 14:32:51.535: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-07 11:04:16.416] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-07 11:04:16.418] [info] Discovered appearance 'dark'
+[2024-09-07 11:04:16.418] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-07 11:04:16.423] [info] Hyprland IPC starting
+[2024-09-07 11:04:16.424] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 11:04:16.425] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 11:04:16.438] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 11:04:16.438] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 11:04:16.449] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-07 11:04:16.449] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-07 11:04:16.628] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-07 11:04:16.639] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 11:04:16.639] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 11:04:16.639] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-07 11:04:16.640] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 11:04:16.640] [info] Loading persistent workspaces from Hyprland workspace rules
+
+(waybar:1398): Gtk-WARNING **: 13:30:19.477: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1398): Gtk-WARNING **: 13:30:19.477: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1398): Gtk-WARNING **: 13:30:19.477: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1398): Gtk-WARNING **: 13:30:19.477: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1398): LIBDBUSMENU-GTK-WARNING **: 13:30:19.578: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1398): LIBDBUSMENU-GTK-WARNING **: 13:30:19.578: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:1398): WARNING **: 14:22:56.168: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-07 17:41:20.455] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-07 17:41:20.457] [info] Discovered appearance 'dark'
+[2024-09-07 17:41:20.457] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-07 17:41:20.463] [info] Hyprland IPC starting
+[2024-09-07 17:41:20.465] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 17:41:20.465] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 17:41:20.478] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 17:41:20.478] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 17:41:20.489] [info] Bar configured (width: 2530, height: 35) for output: DP-2
+[2024-09-07 17:41:20.489] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-07 17:41:20.494] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-07 17:41:20.667] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-07 17:41:20.691] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 17:41:20.691] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 17:41:20.691] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-07 17:41:20.692] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 17:41:20.692] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 17:42:08.389] [info] Bar configured (width: 2530, height: 35) for output: DP-2
+[2024-09-07 17:42:08.515] [info] Bar removed from output: DP-2
+[2024-09-07 17:42:18.777] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 17:42:18.778] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 17:42:18.783] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+(pavucontrol:1540): Gtk-WARNING **: 17:43:42.493: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:1540): Gtk-WARNING **: 17:43:42.519: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:1540): Gtk-WARNING **: 17:43:42.519: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:1540): Gtk-WARNING **: 17:43:42.519: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:1540): Gtk-WARNING **: 17:43:42.519: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+Gdk-Message: 18:10:52.526: Error reading events from display: Broken pipe
+[2024-09-07 18:12:30.907] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-07 18:12:30.935] [info] Discovered appearance 'dark'
+[2024-09-07 18:12:30.935] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-07 18:12:30.940] [info] Hyprland IPC starting
+[2024-09-07 18:12:30.942] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 18:12:30.942] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 18:12:30.955] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 18:12:30.955] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 18:12:30.967] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-07 18:12:30.968] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(pavucontrol:13022): Gtk-WARNING **: 18:21:22.663: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:13022): Gtk-WARNING **: 18:21:22.688: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:13022): Gtk-WARNING **: 18:21:22.688: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:13022): Gtk-WARNING **: 18:21:22.688: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:13022): Gtk-WARNING **: 18:21:22.688: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(pavucontrol:13889): Gtk-WARNING **: 18:24:14.553: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:13889): Gtk-WARNING **: 18:24:14.578: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:13889): Gtk-WARNING **: 18:24:14.579: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:13889): Gtk-WARNING **: 18:24:14.579: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:13889): Gtk-WARNING **: 18:24:14.579: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(pavucontrol:15406): Gtk-WARNING **: 18:27:26.694: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:15406): Gtk-WARNING **: 18:27:26.720: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:15406): Gtk-WARNING **: 18:27:26.720: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:15406): Gtk-WARNING **: 18:27:26.720: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:15406): Gtk-WARNING **: 18:27:26.720: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+[2024-09-07 19:58:10.583] [info] Bar removed from output: DP-1
+[2024-09-07 19:58:13.963] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 19:58:13.963] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 19:58:13.969] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-07 20:31:55.577] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-07 20:31:55.628] [info] Discovered appearance 'dark'
+[2024-09-07 20:31:55.628] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-07 20:31:55.633] [info] Hyprland IPC starting
+[2024-09-07 20:31:55.635] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 20:31:55.635] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 20:31:55.648] [info] Loading persistent workspaces from Waybar config
+[2024-09-07 20:31:55.648] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-07 20:31:55.661] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-07 20:31:55.661] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-08 09:53:13.634] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-08 09:53:13.690] [info] Discovered appearance 'dark'
+[2024-09-08 09:53:13.690] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-08 09:53:13.695] [info] Hyprland IPC starting
+[2024-09-08 09:53:13.697] [info] Loading persistent workspaces from Waybar config
+[2024-09-08 09:53:13.697] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-08 09:53:13.710] [info] Loading persistent workspaces from Waybar config
+[2024-09-08 09:53:13.710] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-08 09:53:13.723] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-08 09:53:13.723] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1405): Gtk-WARNING **: 15:38:47.756: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1405): Gtk-WARNING **: 15:38:47.756: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1405): Gtk-WARNING **: 15:38:47.756: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1405): Gtk-WARNING **: 15:38:47.756: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1405): LIBDBUSMENU-GTK-WARNING **: 15:38:47.856: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1405): LIBDBUSMENU-GTK-WARNING **: 15:38:47.856: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1405): Gtk-WARNING **: 15:49:06.604: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1405): Gtk-WARNING **: 15:49:06.604: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1405): Gtk-WARNING **: 15:49:06.604: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1405): Gtk-WARNING **: 15:49:06.604: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1405): LIBDBUSMENU-GTK-WARNING **: 15:49:06.704: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1405): LIBDBUSMENU-GTK-WARNING **: 15:49:06.704: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:1405): WARNING **: 18:00:15.523: Status Notifier Item with bus name ':1.144' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-09 16:19:43.276] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-09 16:19:43.351] [info] Discovered appearance 'dark'
+[2024-09-09 16:19:43.351] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-09 16:19:43.356] [info] Hyprland IPC starting
+[2024-09-09 16:19:43.357] [info] Loading persistent workspaces from Waybar config
+[2024-09-09 16:19:43.357] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-09 16:19:43.371] [info] Loading persistent workspaces from Waybar config
+[2024-09-09 16:19:43.371] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-09 16:19:43.382] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-09 16:19:43.382] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(pavucontrol:13426): Gtk-WARNING **: 19:06:47.218: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:13426): Gtk-WARNING **: 19:06:47.245: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:13426): Gtk-WARNING **: 19:06:47.245: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:13426): Gtk-WARNING **: 19:06:47.245: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:13426): Gtk-WARNING **: 19:06:47.245: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1477): Gtk-WARNING **: 19:06:59.422: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1477): Gtk-WARNING **: 19:06:59.422: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1477): Gtk-WARNING **: 19:06:59.422: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1477): Gtk-WARNING **: 19:06:59.422: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1477): LIBDBUSMENU-GTK-WARNING **: 19:06:59.522: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1477): LIBDBUSMENU-GTK-WARNING **: 19:06:59.522: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-10 13:24:58.211] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-10 13:24:58.212] [info] Discovered appearance 'dark'
+[2024-09-10 13:24:58.212] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-10 13:24:58.217] [info] Hyprland IPC starting
+[2024-09-10 13:24:58.219] [info] Loading persistent workspaces from Waybar config
+[2024-09-10 13:24:58.219] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-10 13:24:58.232] [info] Loading persistent workspaces from Waybar config
+[2024-09-10 13:24:58.232] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-10 13:24:58.367] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-10 13:24:58.368] [info] Loading persistent workspaces from Waybar config
+[2024-09-10 13:24:58.368] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-10 13:24:58.368] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-10 13:24:58.368] [info] Loading persistent workspaces from Waybar config
+[2024-09-10 13:24:58.368] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-10 13:24:58.385] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-10 13:24:58.385] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1470): Gtk-WARNING **: 16:41:31.171: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1470): Gtk-WARNING **: 16:41:31.171: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1470): Gtk-WARNING **: 16:41:31.171: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1470): Gtk-WARNING **: 16:41:31.171: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1470): LIBDBUSMENU-GTK-WARNING **: 16:41:31.272: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1470): LIBDBUSMENU-GTK-WARNING **: 16:41:31.273: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-11 13:26:19.628] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-11 13:26:19.684] [info] Discovered appearance 'dark'
+[2024-09-11 13:26:19.684] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-11 13:26:19.688] [info] Hyprland IPC starting
+[2024-09-11 13:26:19.689] [info] Loading persistent workspaces from Waybar config
+[2024-09-11 13:26:19.690] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-11 13:26:19.704] [info] Loading persistent workspaces from Waybar config
+[2024-09-11 13:26:19.704] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-11 13:26:19.716] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-11 13:26:19.716] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-11 13:26:19.797] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-11 13:26:19.803] [info] Loading persistent workspaces from Waybar config
+[2024-09-11 13:26:19.803] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-11 13:26:19.803] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-11 13:26:19.803] [info] Loading persistent workspaces from Waybar config
+[2024-09-11 13:26:19.803] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-11 17:43:38.312] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-11 17:43:38.376] [info] Discovered appearance 'dark'
+[2024-09-11 17:43:38.376] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-11 17:43:38.379] [info] Hyprland IPC starting
+[2024-09-11 17:43:38.380] [info] Loading persistent workspaces from Waybar config
+[2024-09-11 17:43:38.380] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-11 17:43:38.393] [info] Loading persistent workspaces from Waybar config
+[2024-09-11 17:43:38.394] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-11 17:43:38.405] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-11 17:43:38.405] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:3246): Gtk-WARNING **: 17:46:19.305: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:3246): Gtk-WARNING **: 17:46:19.305: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:3246): Gtk-WARNING **: 17:46:19.305: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:3246): Gtk-WARNING **: 17:46:19.305: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:3246): LIBDBUSMENU-GTK-WARNING **: 17:46:19.404: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:3246): LIBDBUSMENU-GTK-WARNING **: 17:46:19.404: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-12 13:27:27.915] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-12 13:27:27.999] [info] Discovered appearance 'dark'
+[2024-09-12 13:27:27.999] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-12 13:27:28.002] [info] Hyprland IPC starting
+[2024-09-12 13:27:28.004] [info] Loading persistent workspaces from Waybar config
+[2024-09-12 13:27:28.004] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-12 13:27:28.017] [info] Loading persistent workspaces from Waybar config
+[2024-09-12 13:27:28.017] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-12 13:27:28.044] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-12 13:27:28.044] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1424): Gtk-WARNING **: 18:03:37.250: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1424): Gtk-WARNING **: 18:03:37.250: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1424): Gtk-WARNING **: 18:03:37.250: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1424): Gtk-WARNING **: 18:03:37.250: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1424): LIBDBUSMENU-GTK-WARNING **: 18:03:37.348: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1424): LIBDBUSMENU-GTK-WARNING **: 18:03:37.348: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-12 18:15:00.521] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-12 18:15:00.585] [info] Discovered appearance 'dark'
+[2024-09-12 18:15:00.585] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-12 18:15:00.588] [info] Hyprland IPC starting
+[2024-09-12 18:15:00.590] [info] Loading persistent workspaces from Waybar config
+[2024-09-12 18:15:00.590] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-12 18:15:00.603] [info] Loading persistent workspaces from Waybar config
+[2024-09-12 18:15:00.603] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-12 18:15:00.614] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-12 18:15:00.614] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:3630): WARNING **: 18:16:10.770: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:3630): WARNING **: 18:17:01.209: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(waybar:3630): Gtk-WARNING **: 18:17:01.210: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:3630): Gtk-WARNING **: 18:17:01.210: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:3630): Gtk-WARNING **: 18:17:01.210: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:3630): Gtk-WARNING **: 18:17:01.210: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:3630): LIBDBUSMENU-GTK-WARNING **: 18:17:01.310: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:3630): LIBDBUSMENU-GTK-WARNING **: 18:17:01.310: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:3630): WARNING **: 18:17:01.595: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:3630): WARNING **: 18:18:12.564: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(waybar:3630): LIBDBUSMENU-GTK-WARNING **: 18:18:12.667: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:3630): LIBDBUSMENU-GTK-WARNING **: 18:18:12.667: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:3630): WARNING **: 18:19:00.639: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:3630): WARNING **: 18:22:36.188: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(waybar:3630): Gtk-WARNING **: 18:22:36.189: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:3630): Gtk-WARNING **: 18:22:36.189: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:3630): Gtk-WARNING **: 18:22:36.189: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:3630): Gtk-WARNING **: 18:22:36.189: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:3630): LIBDBUSMENU-GTK-WARNING **: 18:22:36.289: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:3630): LIBDBUSMENU-GTK-WARNING **: 18:22:36.289: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:3630): WARNING **: 18:23:25.442: Status Notifier Item with bus name ':1.63' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(pavucontrol:73327): Gtk-WARNING **: 20:34:29.559: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:73327): Gtk-WARNING **: 20:34:29.583: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:73327): Gtk-WARNING **: 20:34:29.583: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:73327): Gtk-WARNING **: 20:34:29.583: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:73327): Gtk-WARNING **: 20:34:29.583: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+[2024-09-13 13:28:36.503] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-13 13:28:36.562] [info] Discovered appearance 'dark'
+[2024-09-13 13:28:36.562] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-13 13:28:36.565] [info] Hyprland IPC starting
+[2024-09-13 13:28:36.567] [info] Loading persistent workspaces from Waybar config
+[2024-09-13 13:28:36.567] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-13 13:28:36.580] [info] Loading persistent workspaces from Waybar config
+[2024-09-13 13:28:36.580] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-13 13:28:36.592] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-13 13:28:36.592] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1381): Gtk-WARNING **: 17:29:25.854: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1381): Gtk-WARNING **: 17:29:25.854: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1381): Gtk-WARNING **: 17:29:25.854: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1381): Gtk-WARNING **: 17:29:25.854: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1381): LIBDBUSMENU-GTK-WARNING **: 17:29:25.954: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1381): LIBDBUSMENU-GTK-WARNING **: 17:29:25.955: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-14 11:09:46.927] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-14 11:09:47.016] [info] Discovered appearance 'dark'
+[2024-09-14 11:09:47.016] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-14 11:09:47.021] [info] Hyprland IPC starting
+[2024-09-14 11:09:47.022] [info] Loading persistent workspaces from Waybar config
+[2024-09-14 11:09:47.022] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-14 11:09:47.036] [info] Loading persistent workspaces from Waybar config
+[2024-09-14 11:09:47.036] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-14 11:09:47.048] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-14 11:09:47.048] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1439): Gtk-WARNING **: 11:15:46.166: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1439): Gtk-WARNING **: 11:15:46.166: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1439): Gtk-WARNING **: 11:15:46.166: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1439): Gtk-WARNING **: 11:15:46.166: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1439): LIBDBUSMENU-GTK-WARNING **: 11:15:46.266: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1439): LIBDBUSMENU-GTK-WARNING **: 11:15:46.266: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-14 16:34:26.933] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-14 16:34:27.012] [info] Discovered appearance 'dark'
+[2024-09-14 16:34:27.012] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-14 16:34:27.015] [info] Hyprland IPC starting
+[2024-09-14 16:34:27.017] [info] Loading persistent workspaces from Waybar config
+[2024-09-14 16:34:27.017] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-14 16:34:27.030] [info] Loading persistent workspaces from Waybar config
+[2024-09-14 16:34:27.030] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-14 16:34:27.042] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-14 16:34:27.042] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-15 11:40:25.254] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-15 11:40:25.315] [info] Discovered appearance 'dark'
+[2024-09-15 11:40:25.315] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-15 11:40:25.320] [info] Hyprland IPC starting
+[2024-09-15 11:40:25.321] [info] Loading persistent workspaces from Waybar config
+[2024-09-15 11:40:25.322] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-15 11:40:25.335] [info] Loading persistent workspaces from Waybar config
+[2024-09-15 11:40:25.335] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-15 11:40:25.346] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-15 11:40:25.347] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1419): Gtk-WARNING **: 11:41:36.175: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1419): Gtk-WARNING **: 11:41:36.175: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1419): Gtk-WARNING **: 11:41:36.175: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1419): Gtk-WARNING **: 11:41:36.175: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1419): LIBDBUSMENU-GTK-WARNING **: 11:41:36.275: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1419): LIBDBUSMENU-GTK-WARNING **: 11:41:36.275: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-15 11:47:55.100] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-15 11:47:55.158] [info] Discovered appearance 'dark'
+[2024-09-15 11:47:55.158] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-15 11:47:55.160] [info] Hyprland IPC starting
+[2024-09-15 11:47:55.161] [info] Loading persistent workspaces from Waybar config
+[2024-09-15 11:47:55.161] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-15 11:47:55.174] [info] Loading persistent workspaces from Waybar config
+[2024-09-15 11:47:55.174] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-15 11:47:55.185] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-15 11:47:55.185] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-15 11:48:04.442] [error] Failed to create DBus Proxy for :1.47 /StatusNotifierItem: std::bad_cast
+[2024-09-15 11:48:04.446] [error] Failed to create DBus Proxy for :1.47 /StatusNotifierItem: std::bad_cast
+[2024-09-15 11:48:05.262] [error] Failed to create DBus Proxy for :1.54 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-15 11:48:05.262] [error] Failed to create DBus Proxy for :1.54 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-15 11:48:08.096] [error] Failed to create DBus Proxy for :1.57 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-15 11:48:08.096] [error] Failed to create DBus Proxy for :1.57 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-15 18:26:22.770] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-15 18:26:22.778] [info] Loading persistent workspaces from Waybar config
+[2024-09-15 18:26:22.779] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-15 18:26:22.779] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-15 18:26:22.779] [info] Loading persistent workspaces from Waybar config
+[2024-09-15 18:26:22.780] [info] Loading persistent workspaces from Hyprland workspace rules
+
+(pavucontrol:49533): Gtk-WARNING **: 20:24:08.495: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:49533): Gtk-WARNING **: 20:24:08.523: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:49533): Gtk-WARNING **: 20:24:08.523: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:49533): Gtk-WARNING **: 20:24:08.523: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:49533): Gtk-WARNING **: 20:24:08.523: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(pavucontrol:53850): Gtk-WARNING **: 21:39:44.299: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:53850): Gtk-WARNING **: 21:39:44.323: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:53850): Gtk-WARNING **: 21:39:44.323: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:53850): Gtk-WARNING **: 21:39:44.323: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:53850): Gtk-WARNING **: 21:39:44.323: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+[2024-09-16 16:20:46.278] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-16 16:20:46.342] [info] Discovered appearance 'dark'
+[2024-09-16 16:20:46.342] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-16 16:20:46.347] [info] Hyprland IPC starting
+[2024-09-16 16:20:46.347] [info] Loading persistent workspaces from Waybar config
+[2024-09-16 16:20:46.348] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-16 16:20:46.360] [info] Loading persistent workspaces from Waybar config
+[2024-09-16 16:20:46.361] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-16 16:20:46.372] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-16 16:20:46.372] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-16 16:20:56.379] [error] Failed to create DBus Proxy for :1.44 /StatusNotifierItem: std::bad_cast
+[2024-09-16 16:20:56.381] [error] Failed to create DBus Proxy for :1.44 /StatusNotifierItem: std::bad_cast
+[2024-09-16 16:21:03.089] [error] Failed to create DBus Proxy for :1.53 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-16 16:21:03.089] [error] Failed to create DBus Proxy for :1.53 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-16 16:21:24.801] [error] Failed to create DBus Proxy for :1.58 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-16 16:21:24.801] [error] Failed to create DBus Proxy for :1.58 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+
+(pavucontrol:18058): Gtk-WARNING **: 19:39:23.002: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:18058): Gtk-WARNING **: 19:39:23.027: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:18058): Gtk-WARNING **: 19:39:23.027: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:18058): Gtk-WARNING **: 19:39:23.027: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:18058): Gtk-WARNING **: 19:39:23.027: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+[2024-09-16 21:49:32.118] [error] Failed to create DBus Proxy for :1.97 /StatusNotifierItem: std::bad_cast
+[2024-09-16 21:49:32.118] [error] Failed to create DBus Proxy for :1.97 /StatusNotifierItem: std::bad_cast
+[2024-09-17 13:01:12.243] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-17 13:01:12.297] [info] Discovered appearance 'dark'
+[2024-09-17 13:01:12.297] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-17 13:01:12.301] [info] Hyprland IPC starting
+[2024-09-17 13:01:12.302] [info] Loading persistent workspaces from Waybar config
+[2024-09-17 13:01:12.302] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-17 13:01:12.314] [info] Loading persistent workspaces from Waybar config
+[2024-09-17 13:01:12.314] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-17 13:01:12.326] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-17 13:01:12.326] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-17 13:01:20.124] [error] Failed to create DBus Proxy for :1.46 /StatusNotifierItem: std::bad_cast
+[2024-09-17 13:01:20.127] [error] Failed to create DBus Proxy for :1.46 /StatusNotifierItem: std::bad_cast
+[2024-09-17 13:01:21.581] [error] Failed to create DBus Proxy for :1.56 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-17 13:01:21.581] [error] Failed to create DBus Proxy for :1.56 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-17 13:01:24.419] [error] Failed to create DBus Proxy for :1.58 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-17 13:01:24.419] [error] Failed to create DBus Proxy for :1.58 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-17 18:51:58.542] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-17 18:51:58.602] [info] Discovered appearance 'dark'
+[2024-09-17 18:51:58.602] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-17 18:51:58.605] [info] Hyprland IPC starting
+[2024-09-17 18:51:58.606] [info] Loading persistent workspaces from Waybar config
+[2024-09-17 18:51:58.606] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-17 18:51:58.618] [info] Loading persistent workspaces from Waybar config
+[2024-09-17 18:51:58.618] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-17 18:51:58.630] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-17 18:51:58.630] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-17 18:52:25.350] [error] Failed to create DBus Proxy for :1.44 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-17 18:52:25.350] [error] Failed to create DBus Proxy for :1.44 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-17 18:52:25.883] [error] Failed to create DBus Proxy for :1.52 /StatusNotifierItem: std::bad_cast
+[2024-09-17 18:52:25.885] [error] Failed to create DBus Proxy for :1.52 /StatusNotifierItem: std::bad_cast
+[2024-09-17 18:52:29.847] [error] Failed to create DBus Proxy for :1.60 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-17 18:52:29.847] [error] Failed to create DBus Proxy for :1.60 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-18 10:09:07.910] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-18 10:09:07.912] [info] Discovered appearance 'dark'
+[2024-09-18 10:09:07.912] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-18 10:09:07.915] [info] Hyprland IPC starting
+[2024-09-18 10:09:07.916] [info] Loading persistent workspaces from Waybar config
+[2024-09-18 10:09:07.916] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-18 10:09:07.928] [info] Loading persistent workspaces from Waybar config
+[2024-09-18 10:09:07.928] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-18 10:09:07.939] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-18 10:09:07.939] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-18 10:09:08.054] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-18 10:09:08.059] [info] Loading persistent workspaces from Waybar config
+[2024-09-18 10:09:08.059] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-18 10:09:08.059] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-18 10:09:08.059] [info] Loading persistent workspaces from Waybar config
+[2024-09-18 10:09:08.059] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-18 10:09:52.548] [error] Failed to create DBus Proxy for :1.42 /StatusNotifierItem: std::bad_cast
+[2024-09-18 10:09:52.550] [error] Failed to create DBus Proxy for :1.42 /StatusNotifierItem: std::bad_cast
+[2024-09-18 10:09:52.874] [error] Failed to create DBus Proxy for :1.49 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-18 10:09:52.875] [error] Failed to create DBus Proxy for :1.49 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-18 10:10:28.540] [error] Failed to create DBus Proxy for :1.59 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-18 10:10:28.540] [error] Failed to create DBus Proxy for :1.59 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-18 11:28:10.318] [warning] Requested height: 35 is less than the minimum height: 45 required by the modules
+[2024-09-18 11:28:10.318] [info] Bar configured (width: 3810, height: 45) for output: DP-1
+[2024-09-18 11:28:10.318] [error] Item '': No icon name or pixmap given.
+
+(waybar:1379): Gtk-WARNING **: 11:28:10.319: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1379): Gtk-WARNING **: 11:28:10.319: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1379): Gtk-WARNING **: 11:28:10.319: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1379): Gtk-WARNING **: 11:28:10.319: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+[2024-09-18 11:28:10.339] [warning] Requested height: 35 is less than the minimum height: 45 required by the modules
+[2024-09-18 11:28:10.339] [info] Bar configured (width: 1890, height: 45) for output: DP-3
+[2024-09-18 11:28:10.339] [error] Item '': No icon name or pixmap given.
+[2024-09-18 11:28:27.946] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-18 11:28:27.946] [error] Item '': No icon name or pixmap given.
+[2024-09-18 11:28:27.947] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-18 11:28:27.947] [error] Item '': No icon name or pixmap given.
+[2024-09-18 14:12:32.397] [error] Failed to create DBus Proxy for :1.69 /StatusNotifierItem: std::bad_cast
+[2024-09-18 14:12:32.397] [error] Failed to create DBus Proxy for :1.69 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1379): WARNING **: 20:03:19.202: Status Notifier Item with bus name ':1.120' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-18 20:03:19.203] [error] Failed to create DBus Proxy for :1.120 /org/ayatana/NotificationItem/whatsdesk1: std::bad_cast
+[2024-09-18 20:03:19.203] [error] Failed to create DBus Proxy for :1.120 /org/ayatana/NotificationItem/whatsdesk1: std::bad_cast
+[2024-09-19 11:46:20.971] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-19 11:46:20.973] [info] Discovered appearance 'dark'
+[2024-09-19 11:46:20.973] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-19 11:46:20.976] [info] Hyprland IPC starting
+[2024-09-19 11:46:20.976] [info] Loading persistent workspaces from Waybar config
+[2024-09-19 11:46:20.976] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-19 11:46:20.989] [info] Loading persistent workspaces from Waybar config
+[2024-09-19 11:46:20.989] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-19 11:46:21.000] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-19 11:46:21.000] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-19 11:46:21.096] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-19 11:46:21.106] [info] Loading persistent workspaces from Waybar config
+[2024-09-19 11:46:21.106] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-19 11:46:21.106] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-19 11:46:21.106] [info] Loading persistent workspaces from Waybar config
+[2024-09-19 11:46:21.106] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-19 11:46:31.364] [error] Failed to create DBus Proxy for :1.45 /StatusNotifierItem: std::bad_cast
+[2024-09-19 11:46:31.367] [error] Failed to create DBus Proxy for :1.45 /StatusNotifierItem: std::bad_cast
+[2024-09-19 11:46:32.252] [error] Failed to create DBus Proxy for :1.53 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-19 11:46:32.252] [error] Failed to create DBus Proxy for :1.53 /org/ayatana/NotificationItem/spotify_client: std::bad_cast
+[2024-09-19 11:46:35.902] [error] Failed to create DBus Proxy for :1.57 /org/ayatana/NotificationItem/steam: std::bad_cast
+[2024-09-19 11:46:35.903] [error] Failed to create DBus Proxy for :1.57 /org/ayatana/NotificationItem/steam: std::bad_cast
+
+** (waybar:1388): WARNING **: 12:32:09.922: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 12:32:09.932] [error] Failed to create DBus Proxy for :1.86 /org/ayatana/NotificationItem/whatsdesk1: std::bad_cast
+[2024-09-19 12:32:09.932] [error] Failed to create DBus Proxy for :1.86 /org/ayatana/NotificationItem/whatsdesk1: std::bad_cast
+
+** (waybar:1388): WARNING **: 14:48:49.611: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 14:48:49.611] [error] Failed to create DBus Proxy for :1.92 /StatusNotifierItem: std::bad_cast
+[2024-09-19 14:48:49.611] [error] Failed to create DBus Proxy for :1.92 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1388): WARNING **: 15:40:50.461: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1388): WARNING **: 18:28:57.472: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 18:28:57.472] [error] Failed to create DBus Proxy for :1.116 /StatusNotifierItem: std::bad_cast
+[2024-09-19 18:28:57.472] [error] Failed to create DBus Proxy for :1.116 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1388): WARNING **: 18:28:58.408: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1388): WARNING **: 18:29:06.202: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 18:29:06.203] [error] Failed to create DBus Proxy for :1.117 /StatusNotifierItem: std::bad_cast
+[2024-09-19 18:29:06.203] [error] Failed to create DBus Proxy for :1.117 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1388): WARNING **: 18:29:06.847: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1388): WARNING **: 18:29:31.795: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 18:29:31.796] [error] Failed to create DBus Proxy for :1.118 /StatusNotifierItem: std::bad_cast
+[2024-09-19 18:29:31.796] [error] Failed to create DBus Proxy for :1.118 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1388): WARNING **: 18:29:34.245: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1388): WARNING **: 18:34:35.880: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 18:34:35.880] [error] Failed to create DBus Proxy for :1.122 /StatusNotifierItem: std::bad_cast
+[2024-09-19 18:34:35.880] [error] Failed to create DBus Proxy for :1.122 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1388): WARNING **: 18:35:24.921: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1388): WARNING **: 18:51:02.245: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 18:51:02.245] [error] Failed to create DBus Proxy for :1.129 /StatusNotifierItem: std::bad_cast
+[2024-09-19 18:51:02.245] [error] Failed to create DBus Proxy for :1.129 /StatusNotifierItem: std::bad_cast
+
+** (waybar:1388): WARNING **: 18:51:45.886: Status Notifier Item with bus name ':1.86' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-19 20:10:33.528] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-19 20:10:33.528] [info] Bar configured (width: 3810, height: 50) for output: DP-1
+[2024-09-19 20:10:33.528] [error] Item '': No icon name or pixmap given.
+
+(waybar:1388): Gtk-WARNING **: 20:10:33.528: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1388): Gtk-WARNING **: 20:10:33.528: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1388): Gtk-WARNING **: 20:10:33.528: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1388): Gtk-WARNING **: 20:10:33.528: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1388): Gtk-WARNING **: 20:10:33.536: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+
+** (waybar:1388): CRITICAL **: 20:10:33.536: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+
+(waybar:1388): Gtk-WARNING **: 20:10:33.537: Could not find the icon 'whatsdesk1_1'. The 'hicolor' theme
+was not found either, perhaps you need to install it.
+You can get a copy from:
+	http://icon-theme.freedesktop.org/releases
+[2024-09-19 20:10:33.538] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:33.539] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-19 20:10:33.539] [info] Bar configured (width: 1890, height: 50) for output: DP-3
+[2024-09-19 20:10:33.539] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:33.540: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:33.540] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:45.017] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-19 20:10:45.017] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:45.017: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:45.018] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:45.019] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-19 20:10:45.019] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:45.019: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:45.020] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:46.092] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-19 20:10:46.092] [info] Bar configured (width: 3810, height: 50) for output: DP-1
+[2024-09-19 20:10:46.092] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:46.092: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:46.092] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:46.094] [warning] Requested height: 35 is less than the minimum height: 50 required by the modules
+[2024-09-19 20:10:46.094] [info] Bar configured (width: 1890, height: 50) for output: DP-3
+[2024-09-19 20:10:46.094] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:46.094: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:46.094] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:46.753] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-19 20:10:46.753] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:46.753: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:46.753] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-19 20:10:46.754] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-19 20:10:46.754] [error] Item '': No icon name or pixmap given.
+
+** (waybar:1388): CRITICAL **: 20:10:46.755: 
+unhandled exception (type Glib::Error) in signal handler:
+domain: gdk-pixbuf-error-quark
+code  : 5
+what  : Failed to load /usr/share/icons/Pop/16x16/status/image-missing.svg: Unable to load image-loading module: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: /usr/lib/gdk-pixbuf-2.0/2.10.0/loaders/libpixbufloader-svg.so: cannot open shared object file: No such file or directory
+
+[2024-09-19 20:10:46.755] [error] Item 'whatsdesk1': Could not find an icon named 'whatsdesk1_1' and no pixmap given.
+[2024-09-20 10:56:37.289] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-20 10:56:37.359] [info] Discovered appearance 'dark'
+[2024-09-20 10:56:37.359] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-20 10:56:37.362] [info] Hyprland IPC starting
+[2024-09-20 10:56:37.362] [info] Loading persistent workspaces from Waybar config
+[2024-09-20 10:56:37.362] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-20 10:56:37.375] [info] Loading persistent workspaces from Waybar config
+[2024-09-20 10:56:37.375] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-20 10:56:37.386] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-20 10:56:37.386] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:1421): WARNING **: 11:40:14.791: Status Notifier Item with bus name ':1.65' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-20 16:35:53.901] [warning] Requested height: 35 is less than the minimum height: 45 required by the modules
+[2024-09-20 16:35:53.901] [info] Bar configured (width: 3810, height: 45) for output: DP-1
+[2024-09-20 16:35:56.853] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-20 16:35:58.503] [warning] Requested height: 35 is less than the minimum height: 45 required by the modules
+[2024-09-20 16:35:58.503] [info] Bar configured (width: 3810, height: 45) for output: DP-1
+[2024-09-20 16:36:01.240] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+** (waybar:1421): WARNING **: 17:43:01.910: Status Notifier Item with bus name ':1.65' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(waybar:1421): Gtk-WARNING **: 17:43:01.912: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1421): Gtk-WARNING **: 17:43:01.912: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1421): Gtk-WARNING **: 17:43:01.912: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1421): Gtk-WARNING **: 17:43:01.912: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1421): LIBDBUSMENU-GTK-WARNING **: 17:43:02.012: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1421): LIBDBUSMENU-GTK-WARNING **: 17:43:02.012: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:1421): WARNING **: 17:43:58.013: Status Notifier Item with bus name ':1.65' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-21 10:19:52.066] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-21 10:19:52.122] [info] Discovered appearance 'dark'
+[2024-09-21 10:19:52.122] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-21 10:19:52.127] [info] Hyprland IPC starting
+[2024-09-21 10:19:52.127] [info] Loading persistent workspaces from Waybar config
+[2024-09-21 10:19:52.127] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-21 10:19:52.140] [info] Loading persistent workspaces from Waybar config
+[2024-09-21 10:19:52.140] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-21 10:19:52.151] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-21 10:19:52.151] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1346): Gtk-WARNING **: 13:05:22.437: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1346): Gtk-WARNING **: 13:05:22.437: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1346): Gtk-WARNING **: 13:05:22.437: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1346): Gtk-WARNING **: 13:05:22.437: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1346): LIBDBUSMENU-GTK-WARNING **: 13:05:22.537: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1346): LIBDBUSMENU-GTK-WARNING **: 13:05:22.538: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-22 11:31:09.673] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-22 11:31:09.675] [info] Discovered appearance 'dark'
+[2024-09-22 11:31:09.675] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-22 11:31:09.678] [info] Hyprland IPC starting
+[2024-09-22 11:31:09.679] [info] Loading persistent workspaces from Waybar config
+[2024-09-22 11:31:09.679] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-22 11:31:09.692] [info] Loading persistent workspaces from Waybar config
+[2024-09-22 11:31:09.692] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-22 11:31:09.702] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-22 11:31:09.703] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-22 11:31:09.866] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-22 11:31:09.876] [info] Loading persistent workspaces from Waybar config
+[2024-09-22 11:31:09.876] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-22 11:31:09.876] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-22 11:31:09.876] [info] Loading persistent workspaces from Waybar config
+[2024-09-22 11:31:09.876] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-22 12:01:11.253] [info] Bar removed from output: DP-3
+[2024-09-22 12:01:12.298] [info] Loading persistent workspaces from Waybar config
+[2024-09-22 12:01:12.298] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-22 12:01:12.305] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-22 12:11:24.999] [info] Bar removed from output: DP-3
+[2024-09-22 12:11:25.948] [info] Loading persistent workspaces from Waybar config
+[2024-09-22 12:11:25.948] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-22 12:11:25.954] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+** (waybar:1308): WARNING **: 17:43:29.051: Status Notifier Item with bus name ':1.120' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1308): WARNING **: 19:47:56.492: Status Notifier Item with bus name ':1.120' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(waybar:1308): Gtk-WARNING **: 19:47:56.493: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1308): Gtk-WARNING **: 19:47:56.493: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1308): Gtk-WARNING **: 19:47:56.493: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1308): Gtk-WARNING **: 19:47:56.493: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1308): LIBDBUSMENU-GTK-WARNING **: 19:47:56.593: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1308): LIBDBUSMENU-GTK-WARNING **: 19:47:56.593: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:1308): WARNING **: 19:48:22.098: Status Notifier Item with bus name ':1.120' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-23 16:24:35.883] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-23 16:24:35.942] [info] Discovered appearance 'dark'
+[2024-09-23 16:24:35.942] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-23 16:24:35.947] [info] Hyprland IPC starting
+[2024-09-23 16:24:35.947] [info] Loading persistent workspaces from Waybar config
+[2024-09-23 16:24:35.947] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-23 16:24:35.960] [info] Loading persistent workspaces from Waybar config
+[2024-09-23 16:24:35.960] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-23 16:24:35.971] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-23 16:24:35.971] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1381): Gtk-WARNING **: 16:55:20.394: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1381): Gtk-WARNING **: 16:55:20.394: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1381): Gtk-WARNING **: 16:55:20.394: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1381): Gtk-WARNING **: 16:55:20.394: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1381): LIBDBUSMENU-GTK-WARNING **: 16:55:20.492: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1381): LIBDBUSMENU-GTK-WARNING **: 16:55:20.492: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-24 07:50:26.516] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-24 07:50:26.517] [info] Discovered appearance 'dark'
+[2024-09-24 07:50:26.518] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-24 07:50:26.521] [info] Hyprland IPC starting
+[2024-09-24 07:50:26.521] [info] Loading persistent workspaces from Waybar config
+[2024-09-24 07:50:26.521] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-24 07:50:26.534] [info] Loading persistent workspaces from Waybar config
+[2024-09-24 07:50:26.534] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-24 07:50:26.545] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-24 07:50:26.545] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-24 07:50:26.687] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-24 07:50:26.697] [info] Loading persistent workspaces from Waybar config
+[2024-09-24 07:50:26.697] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-24 07:50:26.697] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-24 07:50:26.697] [info] Loading persistent workspaces from Waybar config
+[2024-09-24 07:50:26.697] [info] Loading persistent workspaces from Hyprland workspace rules
+
+(pavucontrol:3221): Gtk-WARNING **: 07:53:12.088: Unknown key gtk-modules in /home/titas/.config/gtk-4.0/settings.ini
+
+(pavucontrol:3221): Gtk-WARNING **: 07:53:12.115: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(pavucontrol:3221): Gtk-WARNING **: 07:53:12.116: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(pavucontrol:3221): Gtk-WARNING **: 07:53:12.116: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(pavucontrol:3221): Gtk-WARNING **: 07:53:12.116: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+[2024-09-24 13:25:52.584] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-24 13:25:52.654] [info] Discovered appearance 'dark'
+[2024-09-24 13:25:52.655] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-24 13:25:52.659] [info] Hyprland IPC starting
+[2024-09-24 13:25:52.659] [info] Loading persistent workspaces from Waybar config
+[2024-09-24 13:25:52.659] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-24 13:25:52.672] [info] Loading persistent workspaces from Waybar config
+[2024-09-24 13:25:52.672] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-24 13:25:52.684] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-24 13:25:52.684] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1315): Gtk-WARNING **: 16:16:58.365: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1315): Gtk-WARNING **: 16:16:58.365: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1315): Gtk-WARNING **: 16:16:58.365: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1315): Gtk-WARNING **: 16:16:58.365: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1315): LIBDBUSMENU-GTK-WARNING **: 16:16:58.464: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1315): LIBDBUSMENU-GTK-WARNING **: 16:16:58.465: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1315): Gtk-WARNING **: 16:26:22.144: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1315): Gtk-WARNING **: 16:26:22.144: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1315): Gtk-WARNING **: 16:26:22.144: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1315): Gtk-WARNING **: 16:26:22.144: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1315): LIBDBUSMENU-GTK-WARNING **: 16:26:22.244: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1315): LIBDBUSMENU-GTK-WARNING **: 16:26:22.244: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-25 06:52:32.192] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-25 06:52:32.282] [info] Discovered appearance 'dark'
+[2024-09-25 06:52:32.282] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-25 06:52:32.286] [info] Hyprland IPC starting
+[2024-09-25 06:52:32.287] [info] Loading persistent workspaces from Waybar config
+[2024-09-25 06:52:32.287] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-25 06:52:32.300] [info] Loading persistent workspaces from Waybar config
+[2024-09-25 06:52:32.300] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-25 06:52:32.311] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-25 06:52:32.311] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1355): Gtk-WARNING **: 20:07:52.859: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1355): Gtk-WARNING **: 20:07:52.859: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1355): Gtk-WARNING **: 20:07:52.859: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1355): Gtk-WARNING **: 20:07:52.859: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1355): LIBDBUSMENU-GTK-WARNING **: 20:07:52.960: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1355): LIBDBUSMENU-GTK-WARNING **: 20:07:52.960: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-26 07:19:39.400] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-26 07:19:39.483] [info] Discovered appearance 'dark'
+[2024-09-26 07:19:39.483] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-26 07:19:39.487] [info] Hyprland IPC starting
+[2024-09-26 07:19:39.488] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 07:19:39.488] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 07:19:39.501] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 07:19:39.501] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 07:19:39.512] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-26 07:19:39.513] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-26 15:26:29.405] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-26 15:26:29.470] [info] Discovered appearance 'dark'
+[2024-09-26 15:26:29.470] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-26 15:26:29.473] [info] Hyprland IPC starting
+[2024-09-26 15:26:29.473] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 15:26:29.473] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 15:26:29.485] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 15:26:29.485] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 15:26:29.495] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-26 15:26:29.495] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1311): Gtk-WARNING **: 15:27:25.970: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1311): Gtk-WARNING **: 15:27:25.970: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1311): Gtk-WARNING **: 15:27:25.970: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1311): Gtk-WARNING **: 15:27:25.970: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1311): LIBDBUSMENU-GTK-WARNING **: 15:27:26.069: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1311): LIBDBUSMENU-GTK-WARNING **: 15:27:26.069: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1311): Gtk-WARNING **: 16:22:26.827: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1311): Gtk-WARNING **: 16:22:26.827: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1311): Gtk-WARNING **: 16:22:26.827: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1311): Gtk-WARNING **: 16:22:26.827: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1311): LIBDBUSMENU-GTK-WARNING **: 16:22:26.926: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1311): LIBDBUSMENU-GTK-WARNING **: 16:22:26.926: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-26 16:36:01.305] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-26 16:36:01.356] [info] Discovered appearance 'dark'
+[2024-09-26 16:36:01.356] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-26 16:36:01.361] [info] Hyprland IPC starting
+[2024-09-26 16:36:01.361] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 16:36:01.361] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 16:36:01.374] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 16:36:01.374] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 16:36:01.385] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-26 16:36:01.385] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1296): Gtk-WARNING **: 16:37:23.616: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1296): Gtk-WARNING **: 16:37:23.616: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1296): Gtk-WARNING **: 16:37:23.616: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1296): Gtk-WARNING **: 16:37:23.616: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1296): LIBDBUSMENU-GTK-WARNING **: 17:29:18.824: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1296): LIBDBUSMENU-GTK-WARNING **: 17:29:18.824: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1296): LIBDBUSMENU-GTK-WARNING **: 20:16:19.573: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1296): LIBDBUSMENU-GTK-WARNING **: 20:16:19.574: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-26 20:26:52.430] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-26 20:26:52.458] [info] Discovered appearance 'dark'
+[2024-09-26 20:26:52.458] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-26 20:26:52.461] [info] Hyprland IPC starting
+[2024-09-26 20:26:52.461] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 20:26:52.462] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 20:26:52.474] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 20:26:52.474] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 20:26:52.485] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-26 20:26:52.485] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-26 20:36:09.147] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-26 20:36:09.235] [info] Discovered appearance 'dark'
+[2024-09-26 20:36:09.235] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-26 20:36:09.239] [info] Hyprland IPC starting
+[2024-09-26 20:36:09.239] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 20:36:09.239] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 20:36:09.252] [info] Loading persistent workspaces from Waybar config
+[2024-09-26 20:36:09.252] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-26 20:36:09.263] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-26 20:36:09.263] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1292): Gtk-WARNING **: 20:36:11.763: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1292): Gtk-WARNING **: 20:36:11.763: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1292): Gtk-WARNING **: 20:36:11.763: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1292): Gtk-WARNING **: 20:36:11.763: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1292): LIBDBUSMENU-GTK-WARNING **: 20:36:11.855: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1292): LIBDBUSMENU-GTK-WARNING **: 20:36:11.855: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1292): LIBDBUSMENU-GTK-WARNING **: 20:38:16.848: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1292): LIBDBUSMENU-GTK-WARNING **: 20:38:16.849: The child-display variable is set to '(null)' but there's a menu, odd?
+Gdk-Message: 20:38:17.657: Error reading events from display: Broken pipe
+[2024-09-27 18:31:57.753] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-27 18:31:57.830] [info] Discovered appearance 'dark'
+[2024-09-27 18:31:57.830] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-27 18:31:57.834] [info] Hyprland IPC starting
+[2024-09-27 18:31:57.835] [info] Loading persistent workspaces from Waybar config
+[2024-09-27 18:31:57.835] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-27 18:31:57.848] [info] Loading persistent workspaces from Waybar config
+[2024-09-27 18:31:57.848] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-27 18:31:57.859] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-27 18:31:57.859] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-28 11:42:19.176] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-28 11:42:19.249] [info] Discovered appearance 'dark'
+[2024-09-28 11:42:19.249] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-28 11:42:19.252] [info] Hyprland IPC starting
+[2024-09-28 11:42:19.253] [info] Loading persistent workspaces from Waybar config
+[2024-09-28 11:42:19.253] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-28 11:42:19.265] [info] Loading persistent workspaces from Waybar config
+[2024-09-28 11:42:19.265] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-28 11:42:19.276] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-28 11:42:19.276] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:2334): Gtk-WARNING **: 13:15:07.291: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:2334): Gtk-WARNING **: 13:15:07.291: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:2334): Gtk-WARNING **: 13:15:07.291: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:2334): Gtk-WARNING **: 13:15:07.291: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:2334): LIBDBUSMENU-GTK-WARNING **: 13:15:07.391: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:2334): LIBDBUSMENU-GTK-WARNING **: 13:15:07.391: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:2334): LIBDBUSMENU-GLIB-WARNING **: 13:32:51.275: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/NO_DBUSMENU'
+
+(waybar:2334): LIBDBUSMENU-GLIB-WARNING **: 13:32:51.275: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/NO_DBUSMENU'
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.515: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.515: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.516: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.516: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.517: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.517: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.518: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.518: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.518: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.518: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.526: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.526: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.527: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.527: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.528: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.528: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.529: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.529: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.529: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): Gtk-CRITICAL **: 13:32:51.529: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:2334): LIBDBUSMENU-GLIB-WARNING **: 17:57:24.395: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+
+(waybar:2334): LIBDBUSMENU-GLIB-WARNING **: 17:57:24.395: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/MenuBar'
+[2024-09-28 17:57:24.395] [warning] Failed to update properties: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/StatusNotifierItem'
+[2024-09-28 17:57:24.395] [warning] Failed to update properties: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/StatusNotifierItem'
+
+(waybar:2334): LIBDBUSMENU-GTK-WARNING **: 18:04:36.934: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:2334): LIBDBUSMENU-GTK-WARNING **: 18:04:36.934: The child-display variable is set to '(null)' but there's a menu, odd?
+Gdk-Message: 18:48:16.041: Error reading events from display: Broken pipe
+[2024-09-28 18:50:01.775] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-28 18:50:01.829] [info] Discovered appearance 'dark'
+[2024-09-28 18:50:01.829] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-28 18:50:01.832] [info] Hyprland IPC starting
+[2024-09-28 18:50:01.833] [info] Loading persistent workspaces from Waybar config
+[2024-09-28 18:50:01.833] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-28 18:50:01.845] [info] Loading persistent workspaces from Waybar config
+[2024-09-28 18:50:01.845] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-28 18:50:01.856] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-28 18:50:01.856] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:54295): Gtk-WARNING **: 00:26:54.382: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:54295): Gtk-WARNING **: 00:26:54.382: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:54295): Gtk-WARNING **: 00:26:54.382: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:54295): Gtk-WARNING **: 00:26:54.382: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:54295): LIBDBUSMENU-GTK-WARNING **: 00:26:54.482: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:54295): LIBDBUSMENU-GTK-WARNING **: 00:26:54.482: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:54295): Gtk-WARNING **: 00:28:19.211: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:54295): Gtk-WARNING **: 00:28:19.211: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:54295): Gtk-WARNING **: 00:28:19.211: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:54295): Gtk-WARNING **: 00:28:19.211: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:54295): LIBDBUSMENU-GTK-WARNING **: 00:28:19.311: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:54295): LIBDBUSMENU-GTK-WARNING **: 00:28:19.311: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-09-29 11:55:58.790] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-29 11:55:58.792] [info] Discovered appearance 'dark'
+[2024-09-29 11:55:58.792] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-29 11:55:58.795] [info] Hyprland IPC starting
+[2024-09-29 11:55:58.795] [info] Loading persistent workspaces from Waybar config
+[2024-09-29 11:55:58.795] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-29 11:55:58.815] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-09-29 11:55:58.924] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-09-29 11:55:58.927] [info] Loading persistent workspaces from Waybar config
+[2024-09-29 11:55:58.927] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-29 11:56:03.645] [info] Loading persistent workspaces from Waybar config
+[2024-09-29 11:56:03.645] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-29 11:56:03.649] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+
+(waybar:1342): Gtk-WARNING **: 11:57:10.425: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1342): Gtk-WARNING **: 11:57:10.425: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1342): Gtk-WARNING **: 11:57:10.425: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1342): Gtk-WARNING **: 11:57:10.425: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1342): LIBDBUSMENU-GTK-WARNING **: 11:57:10.525: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1342): LIBDBUSMENU-GTK-WARNING **: 11:57:10.525: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:1342): WARNING **: 12:03:30.116: Status Notifier Item with bus name ':1.69' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:1342): WARNING **: 18:42:03.189: Status Notifier Item with bus name ':1.69' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+(waybar:1342): Gtk-WARNING **: 18:42:03.191: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1342): Gtk-WARNING **: 18:42:03.191: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1342): Gtk-WARNING **: 18:42:03.191: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1342): Gtk-WARNING **: 18:42:03.191: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1342): LIBDBUSMENU-GTK-WARNING **: 18:42:03.291: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1342): LIBDBUSMENU-GTK-WARNING **: 18:42:03.291: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:1342): WARNING **: 18:42:03.975: Status Notifier Item with bus name ':1.69' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-09-30 16:19:52.880] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-09-30 16:19:52.976] [info] Discovered appearance 'dark'
+[2024-09-30 16:19:52.976] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-09-30 16:19:52.979] [info] Hyprland IPC starting
+[2024-09-30 16:19:52.979] [info] Loading persistent workspaces from Waybar config
+[2024-09-30 16:19:52.979] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-30 16:19:52.992] [info] Loading persistent workspaces from Waybar config
+[2024-09-30 16:19:52.992] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-09-30 16:19:53.003] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-09-30 16:19:53.003] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1325): Gtk-WARNING **: 20:17:35.033: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1325): Gtk-WARNING **: 20:17:35.033: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1325): Gtk-WARNING **: 20:17:35.033: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1325): Gtk-WARNING **: 20:17:35.033: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1325): LIBDBUSMENU-GTK-WARNING **: 20:17:35.133: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1325): LIBDBUSMENU-GTK-WARNING **: 20:17:35.133: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-10-01 13:22:56.969] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-01 13:22:57.042] [info] Discovered appearance 'dark'
+[2024-10-01 13:22:57.042] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-01 13:22:57.046] [info] Hyprland IPC starting
+[2024-10-01 13:22:57.046] [info] Loading persistent workspaces from Waybar config
+[2024-10-01 13:22:57.046] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-01 13:22:57.058] [info] Loading persistent workspaces from Waybar config
+[2024-10-01 13:22:57.058] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-01 13:22:57.070] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-01 13:22:57.070] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1319): Gtk-WARNING **: 13:39:22.594: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1319): Gtk-WARNING **: 13:39:22.594: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1319): Gtk-WARNING **: 13:39:22.594: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1319): Gtk-WARNING **: 13:39:22.594: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1319): LIBDBUSMENU-GTK-WARNING **: 13:39:22.694: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1319): LIBDBUSMENU-GTK-WARNING **: 13:39:22.695: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1319): LIBDBUSMENU-GTK-WARNING **: 18:37:26.583: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1319): LIBDBUSMENU-GTK-WARNING **: 18:37:26.583: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-10-02 13:26:41.860] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 13:26:41.929] [info] Discovered appearance 'dark'
+[2024-10-02 13:26:41.929] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 13:26:41.932] [info] Hyprland IPC starting
+[2024-10-02 13:26:41.933] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 13:26:41.933] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 13:26:41.946] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 13:26:41.946] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 13:26:41.957] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 13:26:41.957] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+Gdk-Message: 14:35:12.405: Error reading events from display: Broken pipe
+[2024-10-02 16:17:17.759] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 16:17:17.822] [info] Discovered appearance 'dark'
+[2024-10-02 16:17:17.822] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 16:17:17.825] [info] Hyprland IPC starting
+[2024-10-02 16:17:17.826] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 16:17:17.826] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 16:17:17.838] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 16:17:17.838] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 16:17:17.849] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 16:17:17.849] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1331): Gtk-WARNING **: 17:31:43.876: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1331): Gtk-WARNING **: 17:31:43.876: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1331): Gtk-WARNING **: 17:31:43.876: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1331): Gtk-WARNING **: 17:31:43.876: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1331): LIBDBUSMENU-GTK-WARNING **: 17:31:43.975: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1331): LIBDBUSMENU-GTK-WARNING **: 17:31:43.976: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1331): LIBDBUSMENU-GTK-WARNING **: 18:37:54.830: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1331): LIBDBUSMENU-GTK-WARNING **: 18:37:54.830: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1331): LIBDBUSMENU-GTK-WARNING **: 18:38:08.782: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1331): LIBDBUSMENU-GTK-WARNING **: 18:38:08.782: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-10-02 18:44:11.517] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 18:44:12.611] [info] Discovered appearance 'dark'
+[2024-10-02 18:44:12.611] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 18:44:12.620] [info] Hyprland IPC starting
+[2024-10-02 18:44:12.620] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 18:44:12.620] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 18:44:12.636] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 18:44:12.636] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 18:44:12.637] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 18:44:12.637] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 18:44:13.089] [info] Bar configured (width: 1890, height: 35) for output: Unknown-1
+[2024-10-02 18:44:13.089] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 18:44:13.089] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1544): Gtk-WARNING **: 18:48:51.894: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1544): Gtk-WARNING **: 18:48:51.894: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1544): Gtk-WARNING **: 18:48:51.894: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1544): Gtk-WARNING **: 18:48:51.894: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1544): LIBDBUSMENU-GTK-WARNING **: 18:48:51.998: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1544): LIBDBUSMENU-GTK-WARNING **: 18:48:51.999: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1544): LIBDBUSMENU-GTK-WARNING **: 18:48:51.999: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-10-02 18:51:51.693] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 18:51:52.924] [info] Discovered appearance 'dark'
+[2024-10-02 18:51:52.924] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 18:51:52.930] [info] Hyprland IPC starting
+[2024-10-02 18:51:52.930] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 18:51:52.930] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 18:51:52.946] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 18:51:52.946] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 18:51:52.948] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 18:51:52.948] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 18:51:53.207] [info] Bar configured (width: 1890, height: 35) for output: Unknown-1
+[2024-10-02 18:51:53.207] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 18:51:53.207] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:1525): Gtk-WARNING **: 18:52:19.871: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:1525): Gtk-WARNING **: 18:52:19.871: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:1525): Gtk-WARNING **: 18:52:19.871: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:1525): Gtk-WARNING **: 18:52:19.871: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 18:52:19.968: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 18:52:19.968: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 18:52:19.968: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 18:53:17.813: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 18:53:17.813: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:1525): LIBDBUSMENU-GTK-WARNING **: 18:53:17.813: The child-display variable is set to '(null)' but there's a menu, odd?
+[2024-10-02 19:23:43.109] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 19:23:43.194] [info] Discovered appearance 'dark'
+[2024-10-02 19:23:43.194] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 19:23:43.199] [info] Hyprland IPC starting
+[2024-10-02 19:23:43.199] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:23:43.199] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:23:43.212] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:23:43.212] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:23:43.224] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 19:23:43.224] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+Gdk-Message: 19:23:50.479: Error reading events from display: Broken pipe
+[2024-10-02 19:25:16.077] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 19:25:16.078] [info] Discovered appearance 'dark'
+[2024-10-02 19:25:16.078] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 19:25:16.081] [info] Hyprland IPC starting
+[2024-10-02 19:25:16.081] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:25:16.081] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:25:16.094] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:25:16.094] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:25:16.106] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 19:25:16.106] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-10-02 19:25:16.375] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-10-02 19:25:16.379] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:25:16.379] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:25:16.379] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-10-02 19:25:16.380] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:25:16.380] [info] Loading persistent workspaces from Hyprland workspace rules
+Gdk-Message: 19:42:07.351: Error reading events from display: Broken pipe
+[2024-10-02 19:43:49.284] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-02 19:43:49.353] [info] Discovered appearance 'dark'
+[2024-10-02 19:43:49.353] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-02 19:43:49.358] [info] Hyprland IPC starting
+[2024-10-02 19:43:49.358] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:43:49.358] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:43:49.371] [info] Loading persistent workspaces from Waybar config
+[2024-10-02 19:43:49.371] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-02 19:43:49.382] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-02 19:43:49.382] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+
+(waybar:14380): Gtk-WARNING **: 20:26:25.169: Theme directory scalable/emotes of theme Cosmic has no size field
+
+
+(waybar:14380): Gtk-WARNING **: 20:26:25.169: Theme directory scalable/legacy of theme Cosmic has no size field
+
+
+(waybar:14380): Gtk-WARNING **: 20:26:25.169: Theme directory scalable/ui of theme Cosmic has no size field
+
+
+(waybar:14380): Gtk-WARNING **: 20:26:25.169: Theme directory scalable-up-to-32/status of theme Cosmic has no size field
+
+
+(waybar:14380): LIBDBUSMENU-GTK-WARNING **: 20:26:25.269: The child-display variable is set to '(null)' but there's a menu, odd?
+
+(waybar:14380): LIBDBUSMENU-GTK-WARNING **: 20:26:25.270: The child-display variable is set to '(null)' but there's a menu, odd?
+
+** (waybar:14380): WARNING **: 21:24:26.411: Status Notifier Item with bus name ':1.367' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+
+** (waybar:14380): WARNING **: 21:24:57.127: Status Notifier Item with bus name ':1.367' and object path '/org/ayatana/NotificationItem/whatsdesk1' is already registered
+[2024-10-03 13:24:41.970] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-03 13:24:41.972] [info] Discovered appearance 'dark'
+[2024-10-03 13:24:41.972] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-03 13:24:41.975] [info] Hyprland IPC starting
+[2024-10-03 13:24:41.975] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:24:41.975] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:24:41.988] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:24:41.988] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:24:41.999] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-03 13:24:41.999] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-10-03 13:24:42.122] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-10-03 13:24:42.127] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:24:42.127] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:24:42.127] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-10-03 13:24:42.127] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:24:42.127] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:58:03.095] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-03 13:58:03.096] [info] Discovered appearance 'dark'
+[2024-10-03 13:58:03.096] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-03 13:58:03.100] [info] Hyprland IPC starting
+[2024-10-03 13:58:03.100] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:58:03.100] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:58:03.113] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:58:03.113] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:58:03.124] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-03 13:58:03.124] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-10-03 13:58:03.219] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-10-03 13:58:03.224] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:58:03.225] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-03 13:58:03.225] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-10-03 13:58:03.225] [info] Loading persistent workspaces from Waybar config
+[2024-10-03 13:58:03.225] [info] Loading persistent workspaces from Hyprland workspace rules
