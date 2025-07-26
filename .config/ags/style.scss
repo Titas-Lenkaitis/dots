@@ -1,0 +1,279 @@
+// https://gitlab.gnome.org/GNOME/gtk/-/blob/gtk-3-24/gtk/theme/Adwaita/_colors-public.scss
+$fg-color: #dad7cb;
+$fg-color-dark: #898781;
+$bg-color: #121211;
+$bg-color1: #121211;
+$bg-colorAlt: #1a1a19;
+$button-bg-color: #a00025;
+$button-bg-color-dark: #5f0016;
+$button-bg-color-hover: #ca002f;
+
+window.Bar {
+  background: transparent;
+  color: $fg-color;
+  font-weight: bold;
+
+  button:focus-visible {
+    outline-color: $button-bg-color-hover;
+  }
+  > centerbox {
+    background-color: $bg-color;
+    //background: linear-gradient(90deg,$bg-color 1%, $bg-color1 50%, $bg-color 100%);
+    border-radius: 0px;
+    box-shadow: 0px 6px 12px 1px rgba(6, 5, 6, 0.65);
+    margin-bottom: 24px;
+
+    .startWidgets {
+      margin: 0;
+      padding: 0;
+    }
+
+    .endWidgets {
+      margin-right: 10px;
+    }
+
+    > .startWidgets > .barWidget, > .endWidgets > .barWidget {
+      margin-left: 5px;
+      margin-right: 5px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    .startWidgets > .barWidget:first-child, .endWidgets > .barWidget:last-child {
+      margin-left: 0px;
+    }
+
+    .endWidgets > .barWidget:first-child, .startWidgets > .barWidge:last-child {
+      margin-right: 0px;
+    }
+  }
+
+  > centerbox > box {
+    margin: 6px;
+    border-radius: 8px;
+  }
+
+  > centerbox > box > .barWidget {
+    background-color: $button-bg-color;
+    border-radius: 8px;
+  }
+
+  // sidebar toggle stuff
+  .toggleSideBar {
+    margin: 5px;
+    padding-right: 6px;
+    padding-left: 6px;
+    border-radius: 0px;
+    margin-right: 10px;
+    border-radius: 8px;
+  }
+
+  .toggleSideBar:hover {
+    background-color: $button-bg-color-hover;
+  }
+
+  .toggleSideBar:active, .toggleSideBar:checked {
+    background-color: $fg-color;
+  }
+
+  // wireplumber stuff
+  centerbox > .startWidgets > .wirePlumber {
+    padding: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .wirePlumber > button {
+    margin: 0;
+    padding: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+
+  .wirePlumber popover > contents > box {
+    padding: 4px
+  }
+
+  .wirePlumber popover > contents > box > box {
+    margin: 4px;
+  }
+
+  .wirePlumber .volumeSlider {
+    margin-bottom: 12px;
+  }
+
+  .wirePlumber scale highlight {
+    background-color: $button-bg-color-hover;
+  }
+
+  .wirePlumber levelbar {
+    margin-left: 5px;
+    margin-right: 2px;
+  }
+
+  .wireplumber levelbar .empty, .wirePlumber levelbar .filled {
+    border-radius: 8px;
+  }
+
+  .wirePlumber levelbar .empty {
+    background-color: $button-bg-color-dark;
+    border-radius: 8px;
+    padding: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .wirePlumber levelbar .filled {
+    background-color: $fg-color;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .wirePlumber > button:active levelbar .empty, .wirePlumber > button:checked levelbar .empty {
+    background-color: $fg-color-dark;
+  }
+
+  .wirePlumber > button:active levelbar .filled, .wirePlumber > button:checked levelbar .filled {
+    background-color: $bg-color;
+  }
+
+  // time stuff
+  .time > button {
+    padding: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 0px;
+  }
+
+  .time {
+    padding: 0;
+  }
+
+  //button styling
+
+  button {
+    border-radius: 8px;
+    margin: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: $button-bg-color;
+    //background: linear-gradient(90deg,rgba(190, 10, 52, 1) 1%, rgb(156, 4, 40) 100%);
+  }
+
+
+  // workspace stuff
+  .workspace {
+    margin: 0px;
+    padding: 0px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 0px;
+  }
+
+  .workspace:first-child {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding-left: 6px;
+  }
+
+  .workspace:last-child {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-right: 6px;
+  }
+
+  .workspace image {
+    color: $button-bg-color-dark;
+    transition-duration: 0.25s;
+    -gtk-icon-shadow: 1px 1px 2px $button-bg-color-hover;
+  }
+
+  .workspace:hover {
+    background-color: $button-bg-color;
+  }
+
+  .workspace:hover image {
+    color: $fg-color;
+  }
+
+  .activeWorkspace image {
+    color: $fg-color;
+    transition-duration: 0.25s;
+  }
+
+
+  // more button styling
+  button:hover {
+    background-color: $button-bg-color-hover;
+  }
+
+  button:active, button:checked {
+    background-color: $fg-color;
+    color: $bg-color;
+  }
+
+  button > image {
+    color: white;
+  }
+
+  button:checked > image, button:active > image {
+    color: $bg-color;
+  }
+
+
+  // calendar/popover stuff
+  popover > arrow, popover > contents {
+    background-color: $bg-colorAlt;
+    box-shadow: 5px 5px 5px 0px $bg-color1;
+    border: 0px none;
+  }
+
+  popover calendar.view {
+    background-color: $bg-colorAlt;
+  }
+
+  calendar.view {
+    background-color: $bg-color1;
+  }
+
+  calendar > grid > label:selected {
+    background-color: $button-bg-color;
+  }
+
+  calendar > grid > label {
+    outline: none;
+  }
+
+}
+
+window.SideBar {
+  // animation-name: test;
+  // animation-duration: 1s;
+  // animation-iteration-count: 1;
+  // animation-direction: alternate;
+  background: transparent;
+  //background: radial-gradient(circle,rgba(38, 32, 48, 0.1) 35%, rgba(25, 4, 62, 0.2) 100%);
+  color: $fg-color;
+  font-weight: bold;
+  > box {  
+    background-color: $bg-color;
+    //background: linear-gradient(180deg, $bg-color 1%, $bg-color1 10%);
+    //background: linear-gradient(0deg,rgba(5, 2, 12, 1) 1%, rgba(15, 15, 20, 1) 50%, rgba(5, 2, 12, 1) 100%);
+    //border-radius: 16px;
+    box-shadow: 6px 6px 12px 1px rgba(6, 5, 6, 0.65);
+    //margin: 12px;
+    //margin-top: 8px;
+    margin-right: 24px;
+  }
+}
+
+window.Blur {
+  background: transparent;
+  color: $fg-color;
+  font-weight: bold;
+
+  > centerbox {
+    background: radial-gradient(circle,rgba(18, 18, 17, 0.5) 35%, rgba(16, 16, 15, 0.6));
+    box-shadow: inset 0px 6px 12px 1px rgba(6, 5, 6, 0.65);
+  }
+}

@@ -7873,3 +7873,38 @@ Gdk-Message: 19:42:07.351: Error reading events from display: Broken pipe
 [2024-10-03 13:58:03.225] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
 [2024-10-03 13:58:03.225] [info] Loading persistent workspaces from Waybar config
 [2024-10-03 13:58:03.225] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-06 11:40:42.806] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-10-06 11:40:42.834] [info] Discovered appearance 'dark'
+[2024-10-06 11:40:42.834] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-10-06 11:40:42.837] [info] Hyprland IPC starting
+[2024-10-06 11:40:42.837] [info] Loading persistent workspaces from Waybar config
+[2024-10-06 11:40:42.837] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-06 11:40:42.850] [info] Loading persistent workspaces from Waybar config
+[2024-10-06 11:40:42.850] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-06 11:40:42.862] [info] Bar configured (width: 3810, height: 35) for output: DP-1
+[2024-10-06 11:40:42.862] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+Gdk-Message: 11:41:02.118: Error reading events from display: Broken pipe
+[2024-12-29 11:46:59.969] [info] Using configuration file /home/titas/.config/waybar/config1
+[2024-12-29 11:47:00.044] [info] Discovered appearance 'dark'
+[2024-12-29 11:47:00.045] [info] Using CSS file /home/titas/.config/waybar/style.css
+[2024-12-29 11:47:00.049] [info] Hyprland IPC starting
+[2024-12-29 11:47:00.050] [info] Loading persistent workspaces from Waybar config
+[2024-12-29 11:47:00.050] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-29 11:47:00.062] [info] Loading persistent workspaces from Waybar config
+[2024-12-29 11:47:00.062] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-29 11:47:00.072] [info] Bar configured (width: 2530, height: 35) for output: DP-2
+[2024-12-29 11:47:00.072] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-12-29 11:47:00.076] [info] Bar configured (width: 1890, height: 35) for output: DP-3
+[2024-12-29 11:47:34.131] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-29 11:47:34.155] [info] Loading persistent workspaces from Waybar config
+[2024-12-29 11:47:34.155] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-29 11:47:34.155] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-29 11:47:34.155] [info] Loading persistent workspaces from Waybar config
+[2024-12-29 11:47:34.155] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-29 11:48:08.182] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-29 11:48:08.213] [info] Loading persistent workspaces from Waybar config
+[2024-12-29 11:48:08.213] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-12-29 11:48:08.213] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2024-12-29 11:48:08.213] [info] Loading persistent workspaces from Waybar config
+[2024-12-29 11:48:08.213] [info] Loading persistent workspaces from Hyprland workspace rules
+Gdk-Message: 11:48:56.495: Error reading events from display: Broken pipe
