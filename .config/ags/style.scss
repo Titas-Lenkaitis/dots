@@ -4,6 +4,7 @@ $fg-color-dark: #898781;
 $bg-color: #121211;
 $bg-color1: #121211;
 $bg-colorAlt: #1a1a19;
+$bg-colorAlt1: #4a4a49;
 $button-bg-color: #a00025;
 $button-bg-color-dark: #5f0016;
 $button-bg-color-hover: #ca002f;
@@ -20,8 +21,8 @@ window.Bar {
     background-color: $bg-color;
     //background: linear-gradient(90deg,$bg-color 1%, $bg-color1 50%, $bg-color 100%);
     border-radius: 0px;
-    box-shadow: 0px 6px 12px 1px rgba(6, 5, 6, 0.65);
-    margin-bottom: 24px;
+    box-shadow: 0px 6px 16px 1px rgba(6, 5, 6, 0.65);
+    margin-bottom: 30px;
 
     .startWidgets {
       margin: 0;
@@ -39,11 +40,11 @@ window.Bar {
       margin-bottom: 0;
     }
 
-    .startWidgets > .barWidget:first-child, .endWidgets > .barWidget:last-child {
+    .startWidgets > .barWidget:first-child, .endWidgets > .barWidget:first-child {
       margin-left: 0px;
     }
 
-    .endWidgets > .barWidget:first-child, .startWidgets > .barWidge:last-child {
+    .startWidgets > .barWidget:last-child, .endWidgets > .barWidget:last-child {
       margin-right: 0px;
     }
   }
@@ -76,46 +77,81 @@ window.Bar {
     background-color: $fg-color;
   }
 
-  // wireplumber stuff
-  centerbox > .startWidgets > .wirePlumber {
+  // rules for widgets that contain a menubutton (and popovers)
+  centerbox > .startWidgets > .barButton {
     padding: 0px;
     margin-top: 5px;
     margin-bottom: 5px;
   }
 
-  .wirePlumber > button {
+  .barButton > button {
     margin: 0;
     padding: 6px;
     padding-top: 2px;
     padding-bottom: 2px;
   }
 
-  .wirePlumber popover > contents > box {
+  .barButton popover > contents > box {
     padding: 4px
   }
 
-  .wirePlumber popover > contents > box > box {
+  .barButton popover > contents > box > box {
     margin: 4px;
   }
 
+  // sysTray stuff 
+
+  .sysTray {
+
+    > .trayItem {
+      margin: 0;
+
+      button {
+        margin: 0;
+      }
+    }
+
+    }
+
+  // wireplumber stuff
   .wirePlumber .volumeSlider {
     margin-bottom: 12px;
   }
 
-  .wirePlumber scale highlight {
+  .wirePlumber popover contents button {
+    background-color: $bg-colorAlt;
+    margin: 0;
+    padding: 6px 6px 6px 6px;
+
+    image {
+      -gtk-icon-shadow: none;
+    }
+  }
+
+  .wirePlumber popover contents button:hover {
+    background-color: $bg-colorAlt1;
+  }
+
+  .wirePlumber popover contents {
+    button:active {
+      background-color: $fg-color;
+    }
+  }
+
+  .barButton scale highlight {
     background-color: $button-bg-color-hover;
   }
 
-  .wirePlumber levelbar {
+  .barButton levelbar {
     margin-left: 5px;
     margin-right: 2px;
   }
 
-  .wireplumber levelbar .empty, .wirePlumber levelbar .filled {
+  .barButton levelbar .empty, .barButton levelbar .filled {
     border-radius: 8px;
   }
 
-  .wirePlumber levelbar .empty {
+  .barButton levelbar .empty {
     background-color: $button-bg-color-dark;
     border-radius: 8px;
     padding: 0px;
@@ -123,18 +159,77 @@ window.Bar {
     margin-bottom: 5px;
   }
 
-  .wirePlumber levelbar .filled {
+  .barButton levelbar .filled {
     background-color: $fg-color;
     margin-top: 5px;
     margin-bottom: 5px;
   }
 
-  .wirePlumber > button:active levelbar .empty, .wirePlumber > button:checked levelbar .empty {
+  .barButton > button:active levelbar .empty, .barButton > button:checked levelbar .empty {
     background-color: $fg-color-dark;
   }
 
-  .wirePlumber > button:active levelbar .filled, .wirePlumber > button:checked levelbar .filled {
+  .barButton > button:active levelbar .filled, .barButton > button:checked levelbar .filled {
     background-color: $bg-color;
+  }
+
+  // battery stuff
+  .battery {
+    .heading {
+      margin-bottom: 6px;
+      border-bottom: 1px solid $bg-colorAlt1;
+      padding-bottom: 1px;
+    }
+    
+    .container {
+      > box {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        border-top: 1px solid $bg-colorAlt1;
+        border-bottom: 1px solid $bg-colorAlt1;
+      }
+
+      > box:first-child {
+        border-top: none;
+        padding-top: 0;
+      }
+
+      > box:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
+      .powerProfiles {
+        button {
+          padding-right: 8px;
+          padding-left: 8px;
+          padding-top: 4px;
+          padding-bottom: 4px;
+          margin-left: 0;
+          margin-right: 0;
+
+          label {
+            margin-left: 8px;
+          }
+        }
+      }
+    }
+
+    .batteryInfoList {
+      label {
+        margin-top: 2px;
+        margin-bottom: 2px;
+      }
+      
+      > label:first-child {
+        margin-top: 0px;
+      }
+
+      > label:last-child {
+        margin-bottom: 0px;
+      }
+    }
   }
 
   // time stuff
@@ -157,6 +252,7 @@ window.Bar {
     padding-top: 2px;
     padding-bottom: 2px;
     background-color: $button-bg-color;
+    text-shadow: 1px 1px 0px $button-bg-color-dark;
     //background: linear-gradient(90deg,rgba(190, 10, 52, 1) 1%, rgb(156, 4, 40) 100%);
   }
 
@@ -210,21 +306,24 @@ window.Bar {
   button:active, button:checked {
     background-color: $fg-color;
     color: $bg-color;
+    text-shadow: none;
   }
 
-  button > image {
-    color: white;
+  button image {
+    color: whitesmoke;
+    -gtk-icon-shadow: 1px 1px 0px $button-bg-color-dark;
   }
 
-  button:checked > image, button:active > image {
+  button:checked image, button:active image {
     color: $bg-color;
+    -gtk-icon-shadow: none;
   }
 
 
   // calendar/popover stuff
   popover > arrow, popover > contents {
     background-color: $bg-colorAlt;
-    box-shadow: 5px 5px 5px 0px $bg-color1;
+    box-shadow: 3px 3px 10px 0px $bg-color1;
     border: 0px none;
   }
 

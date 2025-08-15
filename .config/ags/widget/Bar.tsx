@@ -4,10 +4,13 @@ import Time from "./barWidgets/Time"
 import ToggleSideBar from "./barWidgets/ToggleSideBar"
 import Workspaces from "./barWidgets/Workspaces"
 import WirePlumber from "./barWidgets/WirePlumber"
+import BatteryWidget from "./barWidgets/Battery"
+import SysTray from "./barWidgets/sysTray"
 import { Accessor, Setter } from "ags"
 
 export default function Bar(gdkmonitor: Gdk.Monitor, toggleStates: { [index:string]: {[index:string] : {value: Accessor<boolean>, setValue: Setter<boolean>}}}) {
   const { TOP, LEFT, RIGHT, BOTTOM } = Astal.WindowAnchor
+  
   return (
     <window
       visible
@@ -18,13 +21,13 @@ export default function Bar(gdkmonitor: Gdk.Monitor, toggleStates: { [index:stri
       exclusivity={Astal.Exclusivity.EXCLUSIVE}
       anchor={TOP | LEFT | RIGHT}
       application={app}
-      marginBottom={-24}
-      keymode={Astal.Keymode.ON_DEMAND}
+      marginBottom={-30}
       >
       <centerbox cssName="centerbox">
         <box $type="start" class={"startWidgets"}>
           <ToggleSideBar toggleStates={toggleStates} gdkmonitor={gdkmonitor}/>
           <WirePlumber gdkmonitor={gdkmonitor} toggleStates={toggleStates}/>
+          <BatteryWidget/>
         </box>
         
         <box $type="center" class={"centerWidgets"}>
@@ -32,10 +35,11 @@ export default function Bar(gdkmonitor: Gdk.Monitor, toggleStates: { [index:stri
         </box>
         
         <box $type="end" class={"endWidgets"}>
+          <SysTray />
           <Workspaces gdkmonitor={gdkmonitor}/>
+          
         </box>
       </centerbox>
-      
     </window>
   )
 }

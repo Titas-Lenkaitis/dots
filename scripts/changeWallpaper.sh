@@ -6,9 +6,9 @@ theme="${newWallpaper%.*}"
 #waybarConf=$(cat ~/.config/waybar/currentConfig)
 
 hyprctl hyprpaper preload "~/media/wallpapers/$newWallpaper"
-hyprctl hyprpaper wallpaper "DP-1, ~/media/wallpapers/$newWallpaper"
-hyprctl hyprpaper wallpaper "DP-3, ~/media/wallpapers/$newWallpaper"
-#hyprctl hyprpaper wallpaper "eDP-2, ~/media/wallpapers/$newWallpaper"
+#hyprctl hyprpaper wallpaper "DP-1, ~/media/wallpapers/$newWallpaper"
+#hyprctl hyprpaper wallpaper "DP-3, ~/media/wallpapers/$newWallpaper"
+hyprctl hyprpaper wallpaper "eDP-2, ~/media/wallpapers/$newWallpaper"
 hyprctl hyprpaper unload "~/media/wallpapers/$oldWallpaper"
 
 #wal -i $newWallpaper -n -e

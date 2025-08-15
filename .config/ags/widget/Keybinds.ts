@@ -6,13 +6,13 @@ export function showSideBar(toggleStates: { [index:string]: {[index:string] : {v
         const connector = Hyprland.get_default().get_focused_monitor().get_name()
         const sidebar = app.get_window("Sidebar" + connector)
         const blur = app.get_window("Blur" + connector)
-        
+
         if (sidebar == null || blur == null) {
           throw new Error("Null Value!")
         } 
 
-        blur.visible = !blur.visible
-        sidebar.visible = !sidebar.visible
+        app.toggle_window(blur.name)
+        app.toggle_window(sidebar.name)
         toggleStates.sideBarStates[connector].setValue((v) => !v)
           }
 
