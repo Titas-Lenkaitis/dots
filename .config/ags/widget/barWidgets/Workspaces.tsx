@@ -7,13 +7,13 @@ type Props = {
 
 export default function Workspaces({ gdkmonitor }: Props) {
     const hyprland = Hyprland.get_default()
+     const workspaceConf: Record<string, number[]> = {
+         "DP-3": [1,2,3,4,5],
+         "DP-1": [6,7,8,9,10]
+     }
     // const workspaceConf: Record<string, number[]> = {
-    //     "DP-3": [1,2,3,4,5],
-    //     "DP-1": [6,7,8,9,10]
+    //     "eDP-2": [1,2,3,4,5,6,7,8,9,10]
     // }
-    const workspaceConf: Record<string, number[]> = {
-        "eDP-2": [1,2,3,4,5,6,7,8,9,10]
-    }
     const connector = gdkmonitor.get_connector()
     if (connector == null) {
         throw new Error("Null!")
